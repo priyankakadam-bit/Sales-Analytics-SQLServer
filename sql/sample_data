@@ -1,0 +1,78 @@
+/* Customers*/
+
+DECLARE @i INT = 1;
+WHILE @i <= 1000
+BEGIN
+    INSERT INTO Customers (FullName, Email, Country, CreatedAt)
+    VALUES (
+        CONCAT('Customer', @i),
+        CONCAT('customer', @i, '@example.com'),
+        CASE WHEN RAND() < 0.7 THEN 'Germany'
+             WHEN RAND() < 0.85 THEN 'France'
+             ELSE 'UK' END,
+        DATEADD(DAY, -CAST(RAND() * 365 AS INT), GETDATE())
+    );
+    SET @i = @i + 1;
+END
+
+/* Products*/
+DECLARE @i INT = 1;
+WHILE @i <= 50
+BEGIN
+    INSERT INTO Products (ProductName, Category, Price)
+    VALUES (
+        CONCAT('Product', @i),
+        CASE WHEN @i <= 10 THEN 'Electronics'
+             WHEN @i <= 20 THEN 'Clothing'
+             WHEN @i <= 35 THEN 'Home'
+             ELSE 'Books' END,
+        CAST((RAND() * 500 + 10) AS DECIMAL(10,2))  -- Price between 10 and 510
+    );
+    SET @i = @i + 1;
+END
+
+/* Orders*/
+DECLARE @i INT = 1;
+DECLARE @CustomerCount INT = (SELECT COUNT(*) FROM Customers);
+
+WHILE @i <= 5000
+BEGIN
+    INSERT INTO Orders (CustomerID, OrderDate, Status)
+    VALUES (
+        CAST(RAND() * @CustomerCount + 1 AS INT),
+        DATEADD(DAY, -CAST(RAND() * 365 AS INT), GETDATE()),
+        CASE WHEN RAND() < 0.8 THEN 'Completed' ELSE 'Cancelled' END
+    );
+    SET @i = @i + 1;
+END
+
+/* OrderItems*/
+DECLARE @i INT = 1;
+DECLARE @OrderCount INT = (SELECT COUNT(*) FROM Orders);
+DECLARE @ProductCount INT = (SELECT COUNT(*) FROM Products);
+
+WHILE @i <= 15000
+BEGIN
+    INSERT INTO OrderItems (OrderID, ProductID, Quantity, UnitPrice)
+    VALUES (
+        CAST(RAND() * @OrderCount + 1 AS INT),
+        CAST(RAND() * @ProductCount + 1 AS INT),
+        CAST(RAND() * 5 + 1 AS INT), -- Quantity 1-5
+        CAST((RAND() * 500 + 10) AS DECIMAL(10,2)) -- Price 10-510
+    );
+    SET @i = @i + 1;
+END
+
+/* Payments*/
+INSERT INTO Payments (OrderID, Amount, PaymentDate, Method)
+SELECT 
+    o.OrderID,
+    SUM(oi.Quantity * oi.UnitPrice) AS Amount,
+    DATEADD(DAY, CAST(RAND() * 10 AS INT), o.OrderDate) AS PaymentDate,
+    CASE WHEN RAND() < 0.5 THEN 'Credit Card'
+         WHEN RAND() < 0.8 THEN 'PayPal'
+         ELSE 'Bank Transfer' END AS Method
+FROM Orders o
+JOIN OrderItems oi ON o.OrderID = oi.OrderID
+WHERE o.Status = 'Completed'  -- only completed orders are paid
+GROUP BY o.OrderID, o.OrderDate;
