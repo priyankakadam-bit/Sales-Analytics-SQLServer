@@ -1,0 +1,74 @@
+-- Monthly Revenue
+SELECT FORMAT(P.PaymentDate,'yyyy-MM') AS YearMonth, SUM(P.Amount) AS TotalRevenue
+FROM Payments P
+GROUP BY FORMAT(P.PaymentDate,'yyyy-MM')
+ORDER BY YearMonth;
+
+-- Top 10 Customers by Lifetime Value
+SELECT TOP 10 C.FullName, SUM(P.Amount) AS LifetimeValue
+FROM Customers C
+JOIN Orders O ON C.CustomerID = O.CustomerID
+JOIN Payments P ON O.OrderID = P.OrderID
+GROUP BY C.FullName
+ORDER BY LifetimeValue DESC;
+
+-- Repeat Customers
+SELECT COUNT(*) AS RepeatCustomers
+FROM (
+    SELECT CustomerID FROM Orders
+    WHERE Status='Completed'
+    GROUP BY CustomerID
+    HAVING COUNT(OrderID)>1
+) AS T;
+
+-- Average Order Value (AOV)
+SELECT AVG(TotalPerOrder) AS AvgOrderValue
+FROM (
+    SELECT O.OrderID, SUM(OI.Quantity*OI.UnitPrice) AS TotalPerOrder
+    FROM Orders O
+    JOIN OrderItems OI ON O.OrderID = OI.OrderID
+    GROUP BY O.OrderID
+) AS OrderTotals;
+
+-- Top 10 Products
+SELECT TOP 10 P.ProductName, SUM(OI.Quantity*OI.UnitPrice) AS TotalRevenue
+FROM OrderItems OI
+JOIN Products P ON OI.ProductID = P.ProductID
+GROUP BY P.ProductName
+ORDER BY TotalRevenue DESC;
+
+-- Revenue by Category
+SELECT P.Category, SUM(OI.Quantity*OI.UnitPrice) AS CategoryRevenue
+FROM OrderItems OI
+JOIN Products P ON OI.ProductID = P.ProductID
+GROUP BY P.Category
+ORDER BY CategoryRevenue DESC;
+
+-- Revenue by Country
+SELECT C.Country, SUM(P.Amount) AS Revenue
+FROM Customers C
+JOIN Orders O ON C.CustomerID = O.CustomerID
+JOIN Payments P ON O.OrderID = P.OrderID
+GROUP BY C.Country
+ORDER BY Revenue DESC;
+
+-- Cohort Analysis
+WITH FirstOrder AS (
+    SELECT CustomerID, MIN(OrderDate) AS FirstOrderDate
+    FROM Orders
+    GROUP BY CustomerID
+)
+SELECT YEAR(FirstOrderDate) AS CohortYear, COUNT(CustomerID) AS NewCustomers
+FROM FirstOrder
+GROUP BY YEAR(FirstOrderDate)
+ORDER BY CohortYear;
+
+-- Customer Ranking
+SELECT C.FullName, SUM(P.Amount) AS TotalSpent,
+       RANK() OVER(ORDER BY SUM(P.Amount) DESC) AS CustomerRank
+FROM Customers C
+JOIN Orders O ON C.CustomerID = O.CustomerID
+JOIN Payments P ON O.OrderID = P.OrderID
+GROUP BY C.FullName
+ORDER BY CustomerRank;
+ 
