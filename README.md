@@ -26,7 +26,6 @@ The goal is to generate insights for revenue, customer behavior, and product per
 - **OrderItems**: OrderItemID, OrderID, ProductID, Quantity, UnitPrice  
 - **Payments**: PaymentID, OrderID, Amount, PaymentDate, Method  
 
-*(See ER_Diagram.png for visual representation)*
 
 ---
 
