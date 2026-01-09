@@ -1,0 +1,20 @@
+-- Monthly Revenue View
+CREATE VIEW vw_MonthlyRevenue AS
+SELECT FORMAT(PaymentDate,'yyyy-MM') AS YearMonth, SUM(Amount) AS TotalRevenue
+FROM Payments
+GROUP BY FORMAT(PaymentDate,'yyyy-MM');
+
+-- Top Customers View
+CREATE VIEW vw_TopCustomers AS
+SELECT C.FullName, SUM(P.Amount) AS LifetimeValue
+FROM Customers C
+JOIN Orders O ON C.CustomerID = O.CustomerID
+JOIN Payments P ON O.OrderID = P.OrderID
+GROUP BY C.FullName;
+
+-- Revenue by Category View
+CREATE VIEW vw_CategoryRevenue AS
+SELECT P.Category, SUM(OI.Quantity*OI.UnitPrice) AS CategoryRevenue
+FROM OrderItems OI
+JOIN Products P ON OI.ProductID = P.ProductID
+GROUP BY P.Category;
