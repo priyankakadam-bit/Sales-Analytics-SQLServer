@@ -61,9 +61,9 @@ The Power BI dashboard provides interactive insights into:
 - Customer growth and retention
 
 ### Dashboard Preview
-![Revenue Overview](revenue_overview.png)
-![Customer Insights](customer_insights.png)
-![Customer Insights](product_performance.png)
+![Revenue Overview](revenue_overview.PNG)
+![Customer Insights](customer_insights.PNG)
+![Customer Insights](product_performance.PNG)
 
 
 ---
