@@ -52,16 +52,7 @@ Available in `analysis_queries.sql`:
 - Customer ranking with window functions  
 
 ---
-
-## 6. Views
-Optional views for repeated analysis, e.g.,:
-
-```sql
-CREATE VIEW vw_MonthlyRevenue AS
-SELECT FORMAT(PaymentDate, 'yyyy-MM') AS YearMonth,
-
-
-## Power BI Dashboard
+## 6. Power BI Dashboard
 
 The Power BI dashboard provides interactive insights into:
 - Revenue trends over time
@@ -76,4 +67,16 @@ The Power BI dashboard provides interactive insights into:
        SUM(Amount) AS TotalRevenue
 FROM Payments
 GROUP BY FORMAT(PaymentDate, 'yyyy-MM');
+
+---
+## 7. Views
+Optional views for repeated analysis, e.g.,:
+
+```sql
+CREATE VIEW vw_MonthlyRevenue AS
+SELECT FORMAT(PaymentDate, 'yyyy-MM') AS YearMonth,
+
+
+
+
 
