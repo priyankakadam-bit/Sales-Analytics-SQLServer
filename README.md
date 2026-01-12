@@ -59,6 +59,20 @@ Optional views for repeated analysis, e.g.,:
 ```sql
 CREATE VIEW vw_MonthlyRevenue AS
 SELECT FORMAT(PaymentDate, 'yyyy-MM') AS YearMonth,
+
+
+## Power BI Dashboard
+
+The Power BI dashboard provides interactive insights into:
+- Revenue trends over time
+- Top customers and repeat behavior
+- Product and category performance
+- Customer growth and retention
+
+### Dashboard Preview
+![Revenue Overview](powerbi/screenshots/revenue_overview.png)
+![Customer Insights](powerbi/screenshots/customer_insights.png)
+
        SUM(Amount) AS TotalRevenue
 FROM Payments
 GROUP BY FORMAT(PaymentDate, 'yyyy-MM');
