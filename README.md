@@ -143,9 +143,9 @@ Pages:
 - **Product performance** - top products, category share, products bought together
 
 ### Dashboard Preview
-![Overview](images/overview.png)
-![Customer Insights](images/customers.png)
-![Product Performance](images/products.png)
+![Overview](images/overview.PNG)
+![Customer Insights](images/customers.PNG)
+![Product Performance](images/products.PNG)
 
 ---
 
