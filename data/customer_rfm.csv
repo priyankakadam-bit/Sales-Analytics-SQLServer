@@ -1,0 +1,1626 @@
+CustomerID,FullName,Country,RecencyDays,Frequency,Monetary,R,F,M,RFMScore,Segment
+1,Customer 1,Germany,718,1,436.90,1,1,3,113,Lost
+2,Customer 2,Netherlands,377,2,4970.90,1,3,5,135,At Risk
+3,Customer 3,Netherlands,9,5,1159.70,5,5,4,554,Champions
+4,Customer 4,France,491,3,983.55,1,4,4,144,At Risk
+5,Customer 5,UK,46,4,1832.65,4,5,5,455,Champions
+6,Customer 6,Germany,508,1,12.99,1,1,1,111,Lost
+7,Customer 7,Netherlands,447,3,1393.46,1,4,4,144,At Risk
+8,Customer 8,Germany,21,2,1291.49,5,2,4,524,New / Promising
+9,Customer 9,UK,429,5,868.54,1,5,4,154,At Risk
+10,Customer 10,UK,655,4,3493.60,1,5,5,155,At Risk
+11,Customer 11,Germany,680,2,75.30,1,4,1,141,At Risk
+14,Customer 14,Germany,491,4,850.20,1,5,4,154,At Risk
+15,Customer 15,France,724,1,913.90,1,1,4,114,Lost
+16,Customer 16,Netherlands,524,4,1594.47,1,5,5,155,At Risk
+17,Customer 17,Germany,564,2,1496.50,1,4,4,144,At Risk
+18,Customer 18,UK,566,2,1420.60,1,4,4,144,At Risk
+19,Customer 19,Germany,687,2,147.89,1,4,1,141,At Risk
+20,Customer 20,France,34,6,3492.77,4,5,5,455,Champions
+22,Customer 22,France,717,1,693.40,1,1,3,113,Lost
+23,Customer 23,Germany,571,2,415.87,1,4,2,142,At Risk
+27,Customer 27,France,484,4,2375.83,1,5,5,155,At Risk
+28,Customer 28,France,25,3,788.84,5,4,3,543,Loyal Customers
+29,Customer 29,Germany,466,4,3723.34,1,5,5,155,At Risk
+30,Customer 30,Spain,715,1,249.00,1,1,2,112,Lost
+31,Customer 31,France,703,2,3727.60,1,4,5,145,At Risk
+32,Customer 32,Germany,466,4,3006.81,1,5,5,155,At Risk
+33,Customer 33,UK,11,5,2673.82,5,5,5,555,Champions
+35,Customer 35,France,390,1,25.98,1,1,1,111,Lost
+36,Customer 36,France,620,3,289.67,1,4,2,142,At Risk
+37,Customer 37,Germany,462,4,395.88,1,5,2,152,At Risk
+38,Customer 38,Germany,507,3,651.25,1,4,3,143,At Risk
+40,Customer 40,France,575,3,1696.69,1,4,5,145,At Risk
+42,Customer 42,Germany,426,3,3777.49,1,4,5,145,At Risk
+43,Customer 43,Germany,692,2,1305.60,1,4,4,144,At Risk
+44,Customer 44,Germany,360,3,1304.70,1,4,4,144,At Risk
+45,Customer 45,France,695,2,329.82,1,4,2,142,At Risk
+46,Customer 46,France,709,1,139.60,1,1,1,111,Lost
+47,Customer 47,Germany,392,2,246.19,1,3,2,132,At Risk
+49,Customer 49,France,572,4,1259.41,1,5,4,154,At Risk
+50,Customer 50,Spain,411,2,641.90,1,3,3,133,At Risk
+51,Customer 51,France,591,3,732.75,1,4,3,143,At Risk
+52,Customer 52,Germany,397,4,1096.35,1,5,4,154,At Risk
+53,Customer 53,Germany,454,1,228.72,1,1,2,112,Lost
+54,Customer 54,UK,568,4,4540.89,1,5,5,155,At Risk
+55,Customer 55,UK,682,2,2518.88,1,4,5,145,At Risk
+57,Customer 57,UK,38,6,5209.88,4,5,5,455,Champions
+58,Customer 58,France,514,2,454.48,1,4,3,143,At Risk
+60,Customer 60,Germany,456,5,2471.64,1,5,5,155,At Risk
+61,Customer 61,Germany,503,2,261.18,1,4,2,142,At Risk
+64,Customer 64,UK,368,3,311.16,1,4,2,142,At Risk
+65,Customer 65,Germany,433,2,982.70,1,3,4,134,At Risk
+66,Customer 66,Germany,656,2,2251.60,1,4,5,145,At Risk
+67,Customer 67,Germany,408,2,367.76,1,3,2,132,At Risk
+68,Customer 68,Netherlands,457,5,1266.55,1,5,4,154,At Risk
+69,Customer 69,Netherlands,45,3,759.83,4,4,3,443,Loyal Customers
+70,Customer 70,Germany,596,2,348.59,1,4,2,142,At Risk
+71,Customer 71,Netherlands,559,3,154.29,1,4,1,141,At Risk
+72,Customer 72,UK,636,2,468.49,1,4,3,143,At Risk
+73,Customer 73,Netherlands,615,2,100.70,1,4,1,141,At Risk
+76,Customer 76,Germany,28,4,709.52,5,5,3,553,Loyal Customers
+77,Customer 77,Germany,389,4,1442.06,1,5,4,154,At Risk
+78,Customer 78,Germany,456,4,1531.67,1,5,5,155,At Risk
+79,Customer 79,Germany,375,1,183.80,1,1,1,111,Lost
+81,Customer 81,Germany,388,5,2725.62,1,5,5,155,At Risk
+82,Customer 82,Germany,698,1,449.00,1,1,3,113,Lost
+83,Customer 83,Germany,327,5,829.33,2,5,4,254,At Risk
+84,Customer 84,Spain,372,3,511.78,1,4,3,143,At Risk
+85,Customer 85,France,671,2,1470.88,1,4,4,144,At Risk
+86,Customer 86,Spain,16,2,739.49,5,2,3,523,New / Promising
+87,Customer 87,Germany,28,6,5116.88,5,5,5,555,Champions
+88,Customer 88,Germany,631,1,145.98,1,1,1,111,Lost
+90,Customer 90,France,485,2,1177.19,1,4,4,144,At Risk
+91,Customer 91,Netherlands,626,2,645.74,1,4,3,143,At Risk
+92,Customer 92,UK,593,2,375.99,1,4,2,142,At Risk
+94,Customer 94,Spain,578,3,1282.87,1,4,4,144,At Risk
+95,Customer 95,UK,376,4,3260.86,1,5,5,155,At Risk
+96,Customer 96,Germany,338,3,769.60,2,4,3,243,At Risk
+97,Customer 97,UK,462,3,1405.85,1,4,4,144,At Risk
+98,Customer 98,Netherlands,447,3,1332.11,1,4,4,144,At Risk
+99,Customer 99,Spain,683,1,22.41,1,1,1,111,Lost
+100,Customer 100,France,686,1,29.80,1,1,1,111,Lost
+101,Customer 101,Germany,345,6,1274.57,2,5,4,254,At Risk
+102,Customer 102,Netherlands,317,3,937.41,2,4,4,244,At Risk
+103,Customer 103,Germany,534,2,505.77,1,4,3,143,At Risk
+104,Customer 104,Germany,446,2,3532.99,1,3,5,135,At Risk
+105,Customer 105,Germany,627,1,3449.39,1,1,5,115,Lost
+106,Customer 106,Germany,445,4,1054.46,1,5,4,154,At Risk
+107,Customer 107,Netherlands,380,3,901.28,1,4,4,144,At Risk
+108,Customer 108,France,569,2,1020.51,1,4,4,144,At Risk
+109,Customer 109,France,552,3,454.80,1,4,3,143,At Risk
+110,Customer 110,France,366,2,991.40,1,3,4,134,At Risk
+111,Customer 111,UK,453,4,1072.69,1,5,4,154,At Risk
+112,Customer 112,France,688,1,195.79,1,1,1,111,Lost
+113,Customer 113,Germany,688,1,149.70,1,1,1,111,Lost
+114,Customer 114,Germany,393,4,1605.51,1,5,5,155,At Risk
+115,Customer 115,France,486,3,710.16,1,4,3,143,At Risk
+116,Customer 116,Spain,41,4,1124.94,4,5,4,454,Champions
+117,Customer 117,UK,597,3,715.08,1,4,3,143,At Risk
+118,Customer 118,Germany,524,3,2454.50,1,4,5,145,At Risk
+119,Customer 119,Germany,413,5,1284.86,1,5,4,154,At Risk
+120,Customer 120,UK,445,4,1115.42,1,5,4,154,At Risk
+121,Customer 121,Germany,446,2,218.99,1,3,2,132,At Risk
+122,Customer 122,France,675,1,49.90,1,1,1,111,Lost
+123,Customer 123,UK,431,3,1039.55,1,4,4,144,At Risk
+125,Customer 125,Germany,685,1,191.17,1,1,1,111,Lost
+127,Customer 127,UK,339,3,890.81,2,4,4,244,At Risk
+128,Customer 128,Germany,678,1,402.10,1,1,2,112,Lost
+129,Customer 129,UK,650,2,1314.19,1,4,4,144,At Risk
+130,Customer 130,Netherlands,577,3,663.90,1,4,3,143,At Risk
+132,Customer 132,France,625,4,1085.70,1,5,4,154,At Risk
+133,Customer 133,Netherlands,413,4,1501.69,1,5,5,155,At Risk
+134,Customer 134,Netherlands,24,4,1322.23,5,5,4,554,Champions
+135,Customer 135,Germany,608,3,2043.90,1,4,5,145,At Risk
+136,Customer 136,Germany,672,1,79.00,1,1,1,111,Lost
+137,Customer 137,Netherlands,16,3,1015.92,5,5,4,554,Champions
+138,Customer 138,France,386,6,4962.63,1,5,5,155,At Risk
+139,Customer 139,UK,320,3,3043.61,2,4,5,245,At Risk
+140,Customer 140,Germany,604,3,1066.48,1,4,4,144,At Risk
+141,Customer 141,UK,414,4,4333.06,1,5,5,155,At Risk
+142,Customer 142,Spain,673,1,212.19,1,1,2,112,Lost
+143,Customer 143,Germany,321,3,1239.32,2,4,4,244,At Risk
+144,Customer 144,UK,369,4,2975.70,1,5,5,155,At Risk
+145,Customer 145,UK,596,2,317.78,1,4,2,142,At Risk
+146,Customer 146,UK,666,1,79.79,1,1,1,111,Lost
+148,Customer 148,Netherlands,485,3,3452.95,1,4,5,145,At Risk
+149,Customer 149,France,11,7,1203.35,5,5,4,554,Champions
+150,Customer 150,UK,574,2,661.99,1,4,3,143,At Risk
+151,Customer 151,UK,603,2,413.38,1,4,2,142,At Risk
+152,Customer 152,Spain,420,3,1561.47,1,4,5,145,At Risk
+154,Customer 154,UK,401,1,338.79,1,1,2,112,Lost
+155,Customer 155,UK,671,1,344.98,1,1,2,112,Lost
+156,Customer 156,UK,565,3,1825.90,1,4,5,145,At Risk
+157,Customer 157,Germany,658,2,322.70,1,4,2,142,At Risk
+158,Customer 158,Germany,622,2,915.49,1,4,4,144,At Risk
+160,Customer 160,Germany,666,1,231.89,1,1,2,112,Lost
+162,Customer 162,Netherlands,644,3,831.57,1,4,4,144,At Risk
+163,Customer 163,Spain,496,2,938.08,1,4,4,144,At Risk
+164,Customer 164,Germany,334,3,1633.71,2,4,5,245,At Risk
+165,Customer 165,Germany,637,2,964.86,1,4,4,144,At Risk
+166,Customer 166,France,484,2,525.90,1,4,3,143,At Risk
+168,Customer 168,Netherlands,312,3,3682.40,2,4,5,245,At Risk
+169,Customer 169,Germany,531,3,502.41,1,4,3,143,At Risk
+170,Customer 170,UK,450,3,914.20,1,4,4,144,At Risk
+171,Customer 171,Germany,342,4,1652.98,2,5,5,255,At Risk
+172,Customer 172,Spain,431,3,1350.19,1,4,4,144,At Risk
+174,Customer 174,France,559,1,628.77,1,1,3,113,Lost
+175,Customer 175,Germany,653,1,251.64,1,1,2,112,Lost
+176,Customer 176,France,330,5,4993.85,2,5,5,255,At Risk
+177,Customer 177,UK,46,3,785.53,4,4,3,443,Loyal Customers
+179,Customer 179,France,410,4,3815.58,1,5,5,155,At Risk
+180,Customer 180,Spain,405,4,648.67,1,5,3,153,At Risk
+181,Customer 181,Germany,397,2,82.89,1,3,1,131,At Risk
+182,Customer 182,Germany,652,1,1416.95,1,1,4,114,Lost
+183,Customer 183,UK,458,2,793.90,1,4,3,143,At Risk
+184,Customer 184,France,294,3,1252.54,2,4,4,244,At Risk
+185,Customer 185,Germany,631,2,654.79,1,4,3,143,At Risk
+186,Customer 186,Germany,374,2,387.24,1,3,2,132,At Risk
+188,Customer 188,Netherlands,421,5,2811.84,1,5,5,155,At Risk
+189,Customer 189,France,442,2,429.59,1,3,2,132,At Risk
+190,Customer 190,Germany,288,3,1068.96,2,4,4,244,At Risk
+191,Customer 191,Germany,648,1,192.29,1,1,1,111,Lost
+192,Customer 192,France,10,5,2387.90,5,5,5,555,Champions
+193,Customer 193,Germany,352,2,1316.39,1,3,4,134,At Risk
+194,Customer 194,Germany,34,11,5582.47,4,5,5,455,Champions
+195,Customer 195,Germany,295,2,405.72,2,3,2,232,At Risk
+196,Customer 196,UK,368,8,3075.76,1,5,5,155,At Risk
+197,Customer 197,Germany,368,7,2560.48,1,5,5,155,At Risk
+198,Customer 198,Netherlands,547,3,452.02,1,4,3,143,At Risk
+200,Customer 200,Germany,455,2,479.36,1,3,3,133,At Risk
+201,Customer 201,Netherlands,631,1,442.90,1,1,3,113,Lost
+202,Customer 202,Germany,1,4,809.58,5,5,4,554,Champions
+203,Customer 203,Germany,525,3,739.04,1,4,3,143,At Risk
+205,Customer 205,France,513,3,893.67,1,4,4,144,At Risk
+207,Customer 207,Germany,377,2,57.89,1,3,1,131,At Risk
+208,Customer 208,UK,629,1,55.98,1,1,1,111,Lost
+210,Customer 210,UK,550,1,757.50,1,1,3,113,Lost
+211,Customer 211,UK,380,3,3180.06,1,4,5,145,At Risk
+212,Customer 212,Germany,581,1,398.00,1,1,2,112,Lost
+213,Customer 213,Germany,635,1,59.00,1,1,1,111,Lost
+214,Customer 214,France,618,1,129.90,1,1,1,111,Lost
+216,Customer 216,France,264,3,528.47,2,4,3,243,At Risk
+217,Customer 217,Spain,338,3,488.60,2,4,3,243,At Risk
+219,Customer 219,UK,38,5,2114.18,4,5,5,455,Champions
+220,Customer 220,UK,395,3,1154.35,1,4,4,144,At Risk
+221,Customer 221,Germany,625,1,166.96,1,1,1,111,Lost
+222,Customer 222,UK,445,3,1741.77,1,4,5,145,At Risk
+224,Customer 224,UK,375,4,1448.66,1,5,4,154,At Risk
+225,Customer 225,Spain,621,1,551.82,1,1,3,113,Lost
+226,Customer 226,Germany,630,1,1505.36,1,1,5,115,Lost
+227,Customer 227,Spain,552,3,1237.79,1,4,4,144,At Risk
+229,Customer 229,France,561,2,2020.40,1,4,5,145,At Risk
+230,Customer 230,Germany,617,1,103.86,1,1,1,111,Lost
+231,Customer 231,Netherlands,518,2,1143.86,1,4,4,144,At Risk
+232,Customer 232,Germany,31,2,1381.90,4,2,4,424,New / Promising
+233,Customer 233,Netherlands,577,2,274.18,1,4,2,142,At Risk
+234,Customer 234,Germany,465,2,1146.48,1,4,4,144,At Risk
+235,Customer 235,UK,479,2,244.73,1,4,2,142,At Risk
+236,Customer 236,Germany,436,2,760.79,1,3,3,133,At Risk
+237,Customer 237,Germany,366,3,724.59,1,4,3,143,At Risk
+238,Customer 238,Germany,550,2,1661.28,1,4,5,145,At Risk
+239,Customer 239,UK,329,3,431.03,2,4,2,242,At Risk
+240,Customer 240,France,5,4,868.76,5,5,4,554,Champions
+241,Customer 241,Spain,310,3,1436.83,2,4,4,244,At Risk
+242,Customer 242,Germany,409,1,167.90,1,1,1,111,Lost
+243,Customer 243,Netherlands,276,2,170.99,2,3,1,231,At Risk
+244,Customer 244,France,465,2,477.78,1,4,3,143,At Risk
+245,Customer 245,Germany,618,1,320.70,1,1,2,112,Lost
+246,Customer 246,Germany,579,2,238.77,1,4,2,142,At Risk
+247,Customer 247,Germany,494,2,1130.73,1,4,4,144,At Risk
+248,Customer 248,Germany,538,2,619.19,1,4,3,143,At Risk
+249,Customer 249,Germany,484,3,2418.95,1,4,5,145,At Risk
+250,Customer 250,UK,13,7,3570.42,5,5,5,555,Champions
+251,Customer 251,Germany,539,3,3450.54,1,4,5,145,At Risk
+252,Customer 252,Germany,287,4,927.07,2,5,4,254,At Risk
+253,Customer 253,Spain,544,2,216.27,1,4,2,142,At Risk
+254,Customer 254,UK,553,2,1630.10,1,4,5,145,At Risk
+255,Customer 255,France,401,2,1722.30,1,3,5,135,At Risk
+257,Customer 257,UK,608,1,273.77,1,1,2,112,Lost
+259,Customer 259,Germany,597,2,401.89,1,4,2,142,At Risk
+260,Customer 260,UK,12,6,718.12,5,5,3,553,Loyal Customers
+261,Customer 261,France,285,6,4180.51,2,5,5,255,At Risk
+262,Customer 262,Germany,285,4,856.77,2,5,4,254,At Risk
+263,Customer 263,Germany,599,1,183.26,1,1,1,111,Lost
+264,Customer 264,Spain,585,3,1920.10,1,4,5,145,At Risk
+265,Customer 265,Germany,312,3,515.24,2,4,3,243,At Risk
+267,Customer 267,UK,420,2,2582.45,1,3,5,135,At Risk
+268,Customer 268,UK,314,2,82.95,2,3,1,231,At Risk
+269,Customer 269,Netherlands,369,2,688.06,1,3,3,133,At Risk
+270,Customer 270,Germany,600,1,59.00,1,1,1,111,Lost
+271,Customer 271,UK,500,4,545.28,1,5,3,153,At Risk
+272,Customer 272,Spain,225,3,412.20,2,4,2,242,At Risk
+273,Customer 273,Germany,42,4,998.54,4,5,4,454,Champions
+274,Customer 274,Germany,308,4,1786.21,2,5,5,255,At Risk
+275,Customer 275,France,387,3,638.34,1,4,3,143,At Risk
+276,Customer 276,UK,585,1,195.48,1,1,1,111,Lost
+278,Customer 278,Germany,7,4,1407.47,5,5,4,554,Champions
+279,Customer 279,France,583,1,91.34,1,1,1,111,Lost
+280,Customer 280,Germany,297,6,1923.85,2,5,5,255,At Risk
+281,Customer 281,Germany,585,1,1188.70,1,1,4,114,Lost
+282,Customer 282,Germany,286,2,575.99,2,3,3,233,At Risk
+283,Customer 283,France,235,4,964.59,2,5,4,254,At Risk
+286,Customer 286,UK,571,2,1592.77,1,4,5,145,At Risk
+287,Customer 287,UK,590,1,31.30,1,1,1,111,Lost
+288,Customer 288,Germany,589,1,221.34,1,1,2,112,Lost
+289,Customer 289,France,581,2,758.92,1,4,3,143,At Risk
+290,Customer 290,UK,44,3,1808.49,4,4,5,445,Champions
+291,Customer 291,Germany,537,1,175.97,1,1,1,111,Lost
+292,Customer 292,UK,586,1,367.00,1,1,2,112,Lost
+293,Customer 293,Netherlands,232,3,1331.78,2,4,4,244,At Risk
+294,Customer 294,Germany,256,2,850.96,2,3,4,234,At Risk
+295,Customer 295,France,42,2,173.88,4,3,1,431,Loyal Customers
+296,Customer 296,UK,483,3,748.29,1,4,3,143,At Risk
+297,Customer 297,UK,249,4,3732.53,2,5,5,255,At Risk
+298,Customer 298,Germany,293,2,1044.18,2,3,4,234,At Risk
+299,Customer 299,Germany,220,2,946.26,2,3,4,234,At Risk
+300,Customer 300,Germany,369,2,483.23,1,3,3,133,At Risk
+301,Customer 301,France,382,2,584.47,1,3,3,133,At Risk
+302,Customer 302,UK,282,3,416.08,2,4,2,242,At Risk
+303,Customer 303,France,415,3,2454.55,1,4,5,145,At Risk
+304,Customer 304,Germany,232,3,1139.84,2,4,4,244,At Risk
+305,Customer 305,Netherlands,249,2,1002.71,2,3,4,234,At Risk
+306,Customer 306,France,14,2,346.63,5,2,2,522,New / Promising
+307,Customer 307,France,447,3,744.10,1,4,3,143,At Risk
+308,Customer 308,France,4,3,641.86,5,5,3,553,Loyal Customers
+309,Customer 309,UK,412,2,1676.79,1,3,5,135,At Risk
+310,Customer 310,Germany,504,3,516.76,1,4,3,143,At Risk
+311,Customer 311,UK,576,1,148.00,1,1,1,111,Lost
+312,Customer 312,Netherlands,46,5,2320.48,4,5,5,455,Champions
+313,Customer 313,Spain,570,2,790.49,1,4,3,143,At Risk
+314,Customer 314,Netherlands,573,1,194.99,1,1,1,111,Lost
+315,Customer 315,France,402,2,222.17,1,3,2,132,At Risk
+316,Customer 316,France,41,5,1364.78,4,5,4,454,Champions
+317,Customer 317,France,397,2,327.06,1,3,2,132,At Risk
+319,Customer 319,Germany,30,4,1695.67,4,5,5,455,Champions
+320,Customer 320,France,245,3,372.66,2,4,2,242,At Risk
+322,Customer 322,France,394,2,980.71,1,3,4,134,At Risk
+323,Customer 323,France,319,3,582.71,2,4,3,243,At Risk
+324,Customer 324,Germany,565,1,148.02,1,1,1,111,Lost
+325,Customer 325,Spain,330,1,72.89,2,1,1,211,Lost
+326,Customer 326,Germany,337,3,440.23,2,4,3,243,At Risk
+328,Customer 328,Spain,557,1,692.80,1,1,3,113,Lost
+329,Customer 329,Germany,386,3,797.89,1,4,4,144,At Risk
+330,Customer 330,France,246,2,128.50,2,3,1,231,At Risk
+331,Customer 331,France,197,5,5098.82,2,5,5,255,At Risk
+332,Customer 332,Netherlands,438,2,257.17,1,3,2,132,At Risk
+333,Customer 333,UK,256,3,180.29,2,4,1,241,At Risk
+334,Customer 334,France,513,2,608.92,1,4,3,143,At Risk
+335,Customer 335,UK,41,4,4222.08,4,5,5,455,Champions
+336,Customer 336,UK,501,5,1257.67,1,5,4,154,At Risk
+337,Customer 337,Spain,252,4,796.79,2,5,3,253,At Risk
+338,Customer 338,Germany,550,1,196.50,1,1,1,111,Lost
+340,Customer 340,Germany,339,5,1435.12,2,5,4,254,At Risk
+341,Customer 341,France,257,3,2329.39,2,4,5,245,At Risk
+342,Customer 342,Germany,296,4,2036.19,2,5,5,255,At Risk
+343,Customer 343,France,334,1,763.89,2,1,3,213,Lost
+344,Customer 344,France,560,1,444.79,1,1,3,113,Lost
+345,Customer 345,Spain,545,1,392.89,1,1,2,112,Lost
+346,Customer 346,Spain,388,3,671.85,1,4,3,143,At Risk
+347,Customer 347,UK,326,5,6307.89,2,5,5,255,At Risk
+348,Customer 348,France,452,2,1465.27,1,3,4,134,At Risk
+349,Customer 349,France,558,1,1188.01,1,1,4,114,Lost
+350,Customer 350,Spain,403,2,384.06,1,3,2,132,At Risk
+351,Customer 351,France,223,3,963.46,2,4,4,244,At Risk
+353,Customer 353,France,236,3,313.47,2,4,2,242,At Risk
+354,Customer 354,Germany,549,1,1138.90,1,1,4,114,Lost
+355,Customer 355,UK,205,4,598.07,2,5,3,253,At Risk
+358,Customer 358,UK,490,2,372.88,1,4,2,142,At Risk
+360,Customer 360,Germany,182,4,1565.26,3,5,5,355,Loyal Customers
+361,Customer 361,UK,22,3,1482.28,5,5,4,554,Champions
+362,Customer 362,Netherlands,259,2,1558.08,2,3,5,235,At Risk
+363,Customer 363,Germany,195,3,699.62,2,4,3,243,At Risk
+364,Customer 364,Germany,206,5,1128.25,2,5,4,254,At Risk
+365,Customer 365,Germany,351,5,2385.30,2,5,5,255,At Risk
+366,Customer 366,France,241,3,846.98,2,4,4,244,At Risk
+367,Customer 367,Spain,538,1,865.00,1,1,4,114,Lost
+369,Customer 369,France,186,3,242.46,3,4,2,342,Loyal Customers
+370,Customer 370,Germany,259,4,623.73,2,5,3,253,At Risk
+373,Customer 373,UK,28,7,3182.22,5,5,5,555,Champions
+374,Customer 374,Germany,541,1,178.09,1,1,1,111,Lost
+375,Customer 375,Netherlands,19,2,292.39,5,2,2,522,New / Promising
+376,Customer 376,UK,536,1,129.76,1,1,1,111,Lost
+377,Customer 377,Germany,273,4,2722.25,2,5,5,255,At Risk
+378,Customer 378,Germany,208,8,3615.26,2,5,5,255,At Risk
+380,Customer 380,France,531,1,476.00,1,1,3,113,Lost
+381,Customer 381,Netherlands,198,6,3159.51,2,5,5,255,At Risk
+382,Customer 382,Germany,261,2,213.06,2,3,2,232,At Risk
+384,Customer 384,Germany,19,2,143.75,5,2,1,521,New / Promising
+385,Customer 385,Germany,474,2,1405.89,1,4,4,144,At Risk
+387,Customer 387,Spain,508,2,433.67,1,4,3,143,At Risk
+388,Customer 388,Germany,462,2,182.28,1,4,1,141,At Risk
+390,Customer 390,Germany,412,4,968.28,1,5,4,154,At Risk
+391,Customer 391,Germany,291,3,489.58,2,4,3,243,At Risk
+392,Customer 392,Germany,5,3,475.48,5,5,3,553,Loyal Customers
+393,Customer 393,Germany,21,8,1399.57,5,5,4,554,Champions
+394,Customer 394,Germany,242,6,3596.70,2,5,5,255,At Risk
+395,Customer 395,France,401,2,392.27,1,3,2,132,At Risk
+396,Customer 396,France,279,4,1260.01,2,5,4,254,At Risk
+399,Customer 399,UK,44,4,1541.18,4,5,5,455,Champions
+400,Customer 400,UK,529,1,44.97,1,1,1,111,Lost
+401,Customer 401,Germany,518,1,246.98,1,1,2,112,Lost
+402,Customer 402,UK,526,1,149.00,1,1,1,111,Lost
+404,Customer 404,Germany,517,1,735.55,1,1,3,113,Lost
+407,Customer 407,Germany,523,1,3341.80,1,1,5,115,Lost
+408,Customer 408,Germany,523,1,64.88,1,1,1,111,Lost
+413,Customer 413,Germany,371,2,764.08,1,3,3,133,At Risk
+414,Customer 414,Netherlands,22,3,590.50,5,5,3,553,Loyal Customers
+415,Customer 415,Germany,521,1,674.50,1,1,3,113,Lost
+416,Customer 416,France,509,2,93.94,1,4,1,141,At Risk
+417,Customer 417,UK,520,1,2617.10,1,1,5,115,Lost
+418,Customer 418,UK,360,2,157.97,1,3,1,131,At Risk
+419,Customer 419,Germany,315,6,2393.41,2,5,5,255,At Risk
+420,Customer 420,Netherlands,292,4,1577.55,2,5,5,255,At Risk
+421,Customer 421,France,244,3,1980.17,2,4,5,245,At Risk
+422,Customer 422,UK,340,3,1939.56,2,4,5,245,At Risk
+423,Customer 423,UK,12,3,206.45,5,5,2,552,Loyal Customers
+424,Customer 424,Germany,502,1,1336.88,1,1,4,114,Lost
+425,Customer 425,Spain,164,4,995.43,3,5,4,354,Loyal Customers
+428,Customer 428,Germany,499,1,147.79,1,1,1,111,Lost
+430,Customer 430,UK,499,1,729.91,1,1,3,113,Lost
+431,Customer 431,Germany,167,3,2309.70,3,4,5,345,Loyal Customers
+432,Customer 432,Germany,501,1,29.99,1,1,1,111,Lost
+433,Customer 433,France,259,2,1336.49,2,3,4,234,At Risk
+435,Customer 435,Netherlands,507,1,1099.00,1,1,4,114,Lost
+437,Customer 437,Germany,272,2,1642.72,2,3,5,235,At Risk
+439,Customer 439,France,1,2,1123.76,5,2,4,524,New / Promising
+440,Customer 440,Germany,346,2,107.95,2,3,1,231,At Risk
+442,Customer 442,UK,258,2,627.67,2,3,3,233,At Risk
+443,Customer 443,France,16,3,1498.56,5,5,5,555,Champions
+444,Customer 444,Germany,271,3,1052.69,2,4,4,244,At Risk
+445,Customer 445,France,243,3,472.43,2,4,3,243,At Risk
+447,Customer 447,UK,345,9,7979.42,2,5,5,255,At Risk
+448,Customer 448,Germany,497,2,154.59,1,4,1,141,At Risk
+449,Customer 449,UK,348,2,1825.19,2,3,5,235,At Risk
+450,Customer 450,Netherlands,157,3,1283.78,3,4,4,344,Loyal Customers
+451,Customer 451,Netherlands,256,2,1205.09,2,3,4,234,At Risk
+452,Customer 452,France,191,3,1571.93,3,4,5,345,Loyal Customers
+453,Customer 453,Netherlands,501,1,119.96,1,1,1,111,Lost
+454,Customer 454,Germany,353,2,734.90,1,3,3,133,At Risk
+456,Customer 456,Germany,218,4,1360.08,2,5,4,254,At Risk
+457,Customer 457,Spain,180,5,468.56,3,5,3,353,Loyal Customers
+458,Customer 458,Germany,355,2,288.34,1,3,2,132,At Risk
+459,Customer 459,Germany,170,4,260.78,3,5,2,352,Loyal Customers
+460,Customer 460,UK,281,3,304.30,2,4,2,242,At Risk
+461,Customer 461,Germany,251,6,4472.46,2,5,5,255,At Risk
+462,Customer 462,UK,299,3,281.17,2,4,2,242,At Risk
+463,Customer 463,France,187,4,1331.87,3,5,4,354,Loyal Customers
+465,Customer 465,Germany,221,4,781.79,2,5,3,253,At Risk
+466,Customer 466,Germany,325,2,716.82,2,3,3,233,At Risk
+467,Customer 467,Germany,357,3,384.68,1,4,2,142,At Risk
+468,Customer 468,France,307,2,1691.48,2,3,5,235,At Risk
+469,Customer 469,Germany,489,1,1954.70,1,1,5,115,Lost
+470,Customer 470,Germany,225,3,949.57,2,4,4,244,At Risk
+473,Customer 473,Germany,38,3,96.38,4,4,1,441,Loyal Customers
+474,Customer 474,Netherlands,239,3,792.48,2,4,3,243,At Risk
+475,Customer 475,Germany,243,4,762.95,2,5,3,253,At Risk
+476,Customer 476,Germany,454,2,572.38,1,3,3,133,At Risk
+477,Customer 477,UK,220,2,575.08,2,3,3,233,At Risk
+478,Customer 478,France,492,1,1137.40,1,1,4,114,Lost
+479,Customer 479,UK,398,2,316.57,1,3,2,132,At Risk
+480,Customer 480,France,489,1,597.00,1,1,3,113,Lost
+481,Customer 481,UK,349,2,1523.55,2,3,5,235,At Risk
+482,Customer 482,UK,488,1,1165.54,1,1,4,114,Lost
+484,Customer 484,France,357,2,828.10,1,3,4,134,At Risk
+485,Customer 485,Germany,486,1,172.05,1,1,1,111,Lost
+486,Customer 486,UK,328,3,2817.56,2,4,5,245,At Risk
+487,Customer 487,Spain,375,2,309.75,1,3,2,132,At Risk
+488,Customer 488,France,477,1,449.00,1,1,3,113,Lost
+489,Customer 489,France,478,1,929.39,1,1,4,114,Lost
+490,Customer 490,France,489,1,14.99,1,1,1,111,Lost
+491,Customer 491,Germany,34,8,3877.14,4,5,5,455,Champions
+492,Customer 492,Germany,355,3,1182.68,1,4,4,144,At Risk
+493,Customer 493,UK,146,2,285.98,3,3,2,332,Loyal Customers
+494,Customer 494,France,476,1,120.08,1,1,1,111,Lost
+495,Customer 495,France,344,3,943.35,2,4,4,244,At Risk
+496,Customer 496,UK,415,1,112.79,1,1,1,111,Lost
+498,Customer 498,Germany,416,5,1486.52,1,5,4,154,At Risk
+500,Customer 500,Netherlands,334,2,349.29,2,3,2,232,At Risk
+501,Customer 501,Spain,46,5,706.64,4,5,3,453,Loyal Customers
+502,Customer 502,Germany,177,3,356.99,3,4,2,342,Loyal Customers
+503,Customer 503,Germany,34,4,3611.57,4,5,5,455,Champions
+504,Customer 504,Germany,252,2,599.88,2,3,3,233,At Risk
+505,Customer 505,Germany,116,2,374.89,3,3,2,332,Loyal Customers
+506,Customer 506,Germany,358,6,2071.40,1,5,5,155,At Risk
+507,Customer 507,Germany,3,4,2031.43,5,5,5,555,Champions
+508,Customer 508,Germany,477,1,90.10,1,1,1,111,Lost
+509,Customer 509,Netherlands,277,3,2639.55,2,4,5,245,At Risk
+510,Customer 510,UK,472,1,479.79,1,1,3,113,Lost
+512,Customer 512,Germany,151,2,1266.88,3,3,4,334,Loyal Customers
+515,Customer 515,Netherlands,480,1,354.03,1,1,2,112,Lost
+516,Customer 516,Germany,14,3,793.18,5,5,3,553,Loyal Customers
+517,Customer 517,UK,159,4,1363.79,3,5,4,354,Loyal Customers
+518,Customer 518,France,182,4,1376.07,3,5,4,354,Loyal Customers
+519,Customer 519,Germany,294,3,1194.56,2,4,4,244,At Risk
+520,Customer 520,Spain,13,5,1251.69,5,5,4,554,Champions
+521,Customer 521,France,302,2,109.78,2,3,1,231,At Risk
+522,Customer 522,UK,115,2,233.71,3,3,2,332,Loyal Customers
+523,Customer 523,UK,467,1,38.31,1,1,1,111,Lost
+525,Customer 525,Spain,126,1,246.37,3,1,2,312,Need Attention
+526,Customer 526,Spain,363,2,121.52,1,3,1,131,At Risk
+528,Customer 528,France,174,5,4083.89,3,5,5,355,Loyal Customers
+529,Customer 529,UK,471,1,295.54,1,1,2,112,Lost
+530,Customer 530,France,181,4,1497.94,3,5,5,355,Loyal Customers
+531,Customer 531,Netherlands,466,2,170.58,1,4,1,141,At Risk
+533,Customer 533,UK,367,2,344.77,1,3,2,132,At Risk
+534,Customer 534,France,426,2,333.27,1,3,2,132,At Risk
+535,Customer 535,France,27,3,2237.64,5,4,5,545,Champions
+536,Customer 536,Germany,100,5,2411.41,3,5,5,355,Loyal Customers
+537,Customer 537,UK,464,1,192.14,1,1,1,111,Lost
+538,Customer 538,Germany,470,1,79.80,1,1,1,111,Lost
+539,Customer 539,France,456,1,347.98,1,1,2,112,Lost
+540,Customer 540,Germany,218,5,4547.74,2,5,5,255,At Risk
+541,Customer 541,Netherlands,173,7,1262.28,3,5,4,354,Loyal Customers
+542,Customer 542,Germany,10,5,2750.68,5,5,5,555,Champions
+544,Customer 544,Spain,125,2,3219.96,3,3,5,335,Loyal Customers
+545,Customer 545,UK,460,1,264.96,1,1,2,112,Lost
+546,Customer 546,Spain,284,3,2363.47,2,4,5,245,At Risk
+547,Customer 547,Spain,109,3,701.39,3,4,3,343,Loyal Customers
+548,Customer 548,UK,100,6,927.16,3,5,4,354,Loyal Customers
+549,Customer 549,France,90,3,961.17,3,4,4,344,Loyal Customers
+550,Customer 550,UK,367,3,757.79,1,4,3,143,At Risk
+552,Customer 552,UK,234,2,932.88,2,3,4,234,At Risk
+553,Customer 553,France,427,1,179.66,1,1,1,111,Lost
+555,Customer 555,France,374,2,4923.98,1,3,5,135,At Risk
+556,Customer 556,UK,103,3,630.27,3,4,3,343,Loyal Customers
+557,Customer 557,France,458,1,407.89,1,1,2,112,Lost
+558,Customer 558,Spain,147,3,2579.28,3,4,5,345,Loyal Customers
+559,Customer 559,UK,42,3,569.63,4,4,3,443,Loyal Customers
+560,Customer 560,Germany,132,3,950.77,3,4,4,344,Loyal Customers
+561,Customer 561,Germany,147,3,446.79,3,4,3,343,Loyal Customers
+562,Customer 562,Netherlands,264,3,1388.16,2,4,4,244,At Risk
+563,Customer 563,Netherlands,206,4,1220.36,2,5,4,254,At Risk
+564,Customer 564,France,343,2,183.92,2,3,1,231,At Risk
+567,Customer 567,France,248,2,734.00,2,3,3,233,At Risk
+568,Customer 568,Germany,386,3,277.75,1,4,2,142,At Risk
+569,Customer 569,Germany,304,5,736.37,2,5,3,253,At Risk
+570,Customer 570,Germany,112,3,848.88,3,4,4,344,Loyal Customers
+571,Customer 571,Germany,170,2,1350.77,3,3,4,334,Loyal Customers
+573,Customer 573,UK,291,3,600.90,2,4,3,243,At Risk
+575,Customer 575,Spain,85,3,615.20,4,4,3,443,Loyal Customers
+577,Customer 577,France,451,1,264.07,1,1,2,112,Lost
+578,Customer 578,France,446,1,291.88,1,1,2,112,Lost
+579,Customer 579,Germany,394,2,4598.16,1,3,5,135,At Risk
+580,Customer 580,Netherlands,445,1,168.00,1,1,1,111,Lost
+581,Customer 581,UK,450,1,367.89,1,1,2,112,Lost
+582,Customer 582,Netherlands,420,3,737.25,1,4,3,143,At Risk
+583,Customer 583,UK,17,8,2043.22,5,5,5,555,Champions
+584,Customer 584,Germany,202,2,894.96,2,3,4,234,At Risk
+585,Customer 585,France,310,4,1658.14,2,5,5,255,At Risk
+586,Customer 586,Germany,451,1,289.60,1,1,2,112,Lost
+587,Customer 587,UK,304,2,150.69,2,3,1,231,At Risk
+588,Customer 588,UK,36,5,2768.73,4,5,5,455,Champions
+589,Customer 589,UK,186,2,606.76,3,3,3,333,Loyal Customers
+590,Customer 590,Spain,3,5,1327.73,5,5,4,554,Champions
+591,Customer 591,France,263,4,2960.87,2,5,5,255,At Risk
+592,Customer 592,France,369,4,1573.70,1,5,5,155,At Risk
+593,Customer 593,UK,19,4,2091.75,5,5,5,555,Champions
+594,Customer 594,Spain,333,4,666.64,2,5,3,253,At Risk
+595,Customer 595,Germany,192,2,1102.66,3,3,4,334,Loyal Customers
+596,Customer 596,Germany,317,3,556.98,2,4,3,243,At Risk
+597,Customer 597,UK,40,4,1215.13,4,5,4,454,Champions
+598,Customer 598,Netherlands,186,3,2245.38,3,4,5,345,Loyal Customers
+599,Customer 599,Germany,231,2,294.78,2,3,2,232,At Risk
+601,Customer 601,France,21,5,1578.88,5,5,5,555,Champions
+603,Customer 603,UK,436,1,17.99,1,1,1,111,Lost
+604,Customer 604,Netherlands,86,2,2410.08,4,3,5,435,Loyal Customers
+608,Customer 608,Germany,125,3,893.99,3,4,4,344,Loyal Customers
+612,Customer 612,UK,248,2,727.50,2,3,3,233,At Risk
+613,Customer 613,Germany,165,3,2151.27,3,4,5,345,Loyal Customers
+614,Customer 614,Germany,438,1,1476.87,1,1,4,114,Lost
+615,Customer 615,UK,372,2,438.70,1,3,3,133,At Risk
+616,Customer 616,UK,41,4,312.87,4,5,2,452,Loyal Customers
+617,Customer 617,Germany,372,3,292.84,1,4,2,142,At Risk
+618,Customer 618,Netherlands,218,5,1596.95,2,5,5,255,At Risk
+620,Customer 620,France,369,2,325.22,1,3,2,132,At Risk
+621,Customer 621,Netherlands,71,8,2319.24,4,5,5,455,Champions
+622,Customer 622,Germany,30,7,3607.05,4,5,5,455,Champions
+624,Customer 624,France,260,2,362.06,2,3,2,232,At Risk
+625,Customer 625,Germany,218,3,2163.35,2,4,5,245,At Risk
+626,Customer 626,France,61,3,984.09,4,4,4,444,Champions
+627,Customer 627,Germany,252,3,774.96,2,4,3,243,At Risk
+628,Customer 628,France,331,3,908.55,2,4,4,244,At Risk
+629,Customer 629,Germany,312,4,421.36,2,5,2,252,At Risk
+630,Customer 630,Spain,36,24,14505.63,4,5,5,455,Champions
+632,Customer 632,Germany,294,4,1677.18,2,5,5,255,At Risk
+633,Customer 633,Germany,227,2,333.14,2,3,2,232,At Risk
+634,Customer 634,Spain,187,4,744.73,3,5,3,353,Loyal Customers
+635,Customer 635,Germany,303,3,3131.86,2,4,5,245,At Risk
+636,Customer 636,Spain,246,4,625.77,2,5,3,253,At Risk
+637,Customer 637,Germany,211,3,1742.37,2,4,5,245,At Risk
+638,Customer 638,Spain,248,3,920.06,2,4,4,244,At Risk
+639,Customer 639,France,79,2,304.25,4,3,2,432,Loyal Customers
+640,Customer 640,Netherlands,287,2,344.37,2,3,2,232,At Risk
+641,Customer 641,Germany,394,2,1983.59,1,3,5,135,At Risk
+642,Customer 642,Germany,337,4,1015.78,2,5,4,254,At Risk
+643,Customer 643,Germany,268,3,1580.91,2,4,5,245,At Risk
+644,Customer 644,UK,65,4,1492.76,4,5,4,454,Champions
+645,Customer 645,Germany,421,1,198.79,1,1,1,111,Lost
+647,Customer 647,Germany,225,1,64.80,2,1,1,211,Lost
+649,Customer 649,Germany,369,2,1193.70,1,3,4,134,At Risk
+650,Customer 650,Netherlands,148,3,915.47,3,4,4,344,Loyal Customers
+651,Customer 651,Spain,183,2,467.05,3,3,3,333,Loyal Customers
+653,Customer 653,France,112,2,339.31,3,3,2,332,Loyal Customers
+655,Customer 655,Germany,294,3,1743.43,2,4,5,245,At Risk
+656,Customer 656,France,241,1,286.89,2,1,2,212,Lost
+657,Customer 657,Germany,173,3,1009.51,3,4,4,344,Loyal Customers
+658,Customer 658,UK,153,3,354.39,3,4,2,342,Loyal Customers
+659,Customer 659,Germany,207,3,1208.56,2,4,4,244,At Risk
+660,Customer 660,Germany,66,2,418.19,4,3,2,432,Loyal Customers
+661,Customer 661,Germany,255,2,322.99,2,3,2,232,At Risk
+662,Customer 662,France,186,4,3785.84,3,5,5,355,Loyal Customers
+665,Customer 665,France,276,2,1775.96,2,3,5,235,At Risk
+666,Customer 666,Spain,60,5,4026.56,4,5,5,455,Champions
+668,Customer 668,Germany,375,1,184.77,1,1,1,111,Lost
+670,Customer 670,Germany,352,1,296.90,1,1,2,112,Lost
+671,Customer 671,UK,11,5,1296.15,5,5,4,554,Champions
+672,Customer 672,UK,328,2,450.19,2,3,3,233,At Risk
+673,Customer 673,France,66,4,1767.10,4,5,5,455,Champions
+675,Customer 675,France,29,4,1637.56,5,5,5,555,Champions
+676,Customer 676,UK,69,5,2176.95,4,5,5,455,Champions
+677,Customer 677,Germany,339,2,620.80,2,3,3,233,At Risk
+678,Customer 678,France,403,1,97.71,1,1,1,111,Lost
+679,Customer 679,UK,44,2,2206.31,4,3,5,435,Loyal Customers
+680,Customer 680,Germany,149,3,1037.98,3,4,4,344,Loyal Customers
+681,Customer 681,France,146,4,4128.69,3,5,5,355,Loyal Customers
+682,Customer 682,France,269,3,3774.16,2,4,5,245,At Risk
+684,Customer 684,Germany,121,5,5888.06,3,5,5,355,Loyal Customers
+685,Customer 685,France,136,2,666.77,3,3,3,333,Loyal Customers
+686,Customer 686,UK,23,4,2454.27,5,5,5,555,Champions
+687,Customer 687,UK,390,1,308.59,1,1,2,112,Lost
+688,Customer 688,Germany,393,1,224.10,1,1,2,112,Lost
+689,Customer 689,UK,285,2,1280.85,2,3,4,234,At Risk
+690,Customer 690,Spain,396,2,1561.89,1,3,5,135,At Risk
+691,Customer 691,Germany,59,3,1485.29,4,4,4,444,Champions
+692,Customer 692,Germany,45,4,543.94,4,5,3,453,Loyal Customers
+695,Customer 695,UK,361,1,5215.18,1,1,5,115,Lost
+696,Customer 696,Netherlands,184,5,1395.07,3,5,4,354,Loyal Customers
+697,Customer 697,Germany,106,3,1339.86,3,4,4,344,Loyal Customers
+698,Customer 698,UK,385,1,209.84,1,1,2,112,Lost
+699,Customer 699,France,7,4,1008.61,5,5,4,554,Champions
+700,Customer 700,Germany,68,3,759.49,4,4,3,443,Loyal Customers
+701,Customer 701,Germany,18,3,3202.12,5,5,5,555,Champions
+702,Customer 702,UK,52,2,522.80,4,3,3,433,Loyal Customers
+703,Customer 703,UK,324,2,730.42,2,3,3,233,At Risk
+704,Customer 704,France,384,1,214.39,1,1,2,112,Lost
+705,Customer 705,France,345,3,300.85,2,4,2,242,At Risk
+706,Customer 706,Germany,22,3,781.78,5,5,3,553,Loyal Customers
+707,Customer 707,Germany,370,2,653.46,1,3,3,133,At Risk
+708,Customer 708,Germany,367,2,729.58,1,3,3,133,At Risk
+709,Customer 709,UK,78,2,1156.00,4,3,4,434,Loyal Customers
+710,Customer 710,France,369,2,628.58,1,3,3,133,At Risk
+711,Customer 711,Germany,382,1,2287.90,1,1,5,115,Lost
+712,Customer 712,Germany,94,2,341.36,3,3,2,332,Loyal Customers
+713,Customer 713,Germany,159,3,488.85,3,4,3,343,Loyal Customers
+714,Customer 714,UK,97,4,3939.10,3,5,5,355,Loyal Customers
+715,Customer 715,Germany,319,2,771.36,2,3,3,233,At Risk
+716,Customer 716,Germany,319,1,145.08,2,1,1,211,Lost
+717,Customer 717,Netherlands,59,4,1246.88,4,5,4,454,Champions
+718,Customer 718,France,314,3,678.56,2,4,3,243,At Risk
+719,Customer 719,Germany,389,1,44.97,1,1,1,111,Lost
+721,Customer 721,Netherlands,141,3,780.85,3,4,3,343,Loyal Customers
+722,Customer 722,Germany,376,1,139.38,1,1,1,111,Lost
+723,Customer 723,Germany,353,2,929.98,1,3,4,134,At Risk
+725,Customer 725,Netherlands,378,2,233.29,1,3,2,132,At Risk
+726,Customer 726,Germany,3,9,2765.48,5,5,5,555,Champions
+727,Customer 727,Germany,73,4,1253.07,4,5,4,454,Champions
+731,Customer 731,Germany,223,6,818.84,2,5,4,254,At Risk
+732,Customer 732,Netherlands,44,7,4724.63,4,5,5,455,Champions
+733,Customer 733,Germany,58,7,3271.42,4,5,5,455,Champions
+734,Customer 734,Spain,358,2,1085.98,1,3,4,134,At Risk
+735,Customer 735,Germany,13,5,1167.86,5,5,4,554,Champions
+736,Customer 736,Spain,68,3,565.91,4,4,3,443,Loyal Customers
+738,Customer 738,France,339,2,458.18,2,3,3,233,At Risk
+739,Customer 739,Spain,102,4,1906.55,3,5,5,355,Loyal Customers
+741,Customer 741,Spain,190,4,3932.64,3,5,5,355,Loyal Customers
+743,Customer 743,France,318,5,2089.37,2,5,5,255,At Risk
+744,Customer 744,UK,241,3,1978.47,2,4,5,245,At Risk
+747,Customer 747,Spain,79,5,728.43,4,5,3,453,Loyal Customers
+748,Customer 748,Spain,94,2,482.36,3,3,3,333,Loyal Customers
+753,Customer 753,Netherlands,318,3,557.76,2,4,3,243,At Risk
+754,Customer 754,France,244,2,608.99,2,3,3,233,At Risk
+755,Customer 755,UK,138,3,394.71,3,4,2,342,Loyal Customers
+756,Customer 756,Spain,373,1,327.78,1,1,2,112,Lost
+757,Customer 757,Germany,347,2,1073.88,2,3,4,234,At Risk
+758,Customer 758,France,212,4,1110.29,2,5,4,254,At Risk
+759,Customer 759,Germany,273,2,395.67,2,3,2,232,At Risk
+760,Customer 760,Germany,23,4,781.80,5,5,3,553,Loyal Customers
+761,Customer 761,Germany,35,4,572.97,4,5,3,453,Loyal Customers
+762,Customer 762,Netherlands,362,1,343.57,1,1,2,112,Lost
+763,Customer 763,Germany,116,3,710.88,3,4,3,343,Loyal Customers
+764,Customer 764,Spain,4,2,346.86,5,2,2,522,New / Promising
+765,Customer 765,Spain,144,2,355.75,3,3,2,332,Loyal Customers
+766,Customer 766,UK,40,6,3007.18,4,5,5,455,Champions
+767,Customer 767,France,91,4,254.51,3,5,2,352,Loyal Customers
+769,Customer 769,UK,206,6,1588.95,2,5,5,255,At Risk
+770,Customer 770,Germany,45,2,1798.69,4,3,5,435,Loyal Customers
+771,Customer 771,Germany,260,3,896.96,2,4,4,244,At Risk
+772,Customer 772,UK,124,2,322.29,3,3,2,332,Loyal Customers
+773,Customer 773,Germany,203,2,628.54,2,3,3,233,At Risk
+774,Customer 774,Germany,45,2,1526.15,4,3,5,435,Loyal Customers
+775,Customer 775,UK,255,3,1792.38,2,4,5,245,At Risk
+776,Customer 776,UK,344,2,265.88,2,3,2,232,At Risk
+777,Customer 777,Germany,364,1,196.50,1,1,1,111,Lost
+779,Customer 779,France,252,2,337.00,2,3,2,232,At Risk
+781,Customer 781,Germany,33,2,878.99,4,2,4,424,New / Promising
+782,Customer 782,Spain,292,2,894.77,2,3,4,234,At Risk
+783,Customer 783,Germany,351,2,336.38,2,3,2,232,At Risk
+784,Customer 784,Spain,362,1,533.99,1,1,3,113,Lost
+785,Customer 785,France,98,4,1366.98,3,5,4,354,Loyal Customers
+786,Customer 786,France,2,3,425.68,5,5,2,552,Loyal Customers
+790,Customer 790,France,39,3,1987.00,4,4,5,445,Champions
+792,Customer 792,UK,117,3,1033.56,3,4,4,344,Loyal Customers
+793,Customer 793,Netherlands,198,4,368.09,2,5,2,252,At Risk
+794,Customer 794,Netherlands,334,2,447.50,2,3,3,233,At Risk
+795,Customer 795,Germany,6,5,794.05,5,5,3,553,Loyal Customers
+797,Customer 797,Spain,353,1,27.99,1,1,1,111,Lost
+798,Customer 798,France,44,2,465.00,4,3,3,433,Loyal Customers
+799,Customer 799,France,9,4,4606.41,5,5,5,555,Champions
+800,Customer 800,Spain,353,1,123.39,1,1,1,111,Lost
+801,Customer 801,UK,9,3,862.75,5,5,4,554,Champions
+802,Customer 802,France,36,4,1863.58,4,5,5,455,Champions
+803,Customer 803,Netherlands,296,3,789.28,2,4,3,243,At Risk
+805,Customer 805,UK,32,3,655.01,4,4,3,443,Loyal Customers
+806,Customer 806,Germany,330,2,708.28,2,3,3,233,At Risk
+807,Customer 807,Germany,236,3,1185.77,2,4,4,244,At Risk
+808,Customer 808,UK,188,2,1015.39,3,3,4,334,Loyal Customers
+809,Customer 809,Germany,152,4,1201.63,3,5,4,354,Loyal Customers
+810,Customer 810,France,347,1,69.80,2,1,1,211,Lost
+811,Customer 811,Germany,339,1,64.89,2,1,1,211,Lost
+812,Customer 812,Netherlands,340,1,94.88,2,1,1,211,Lost
+813,Customer 813,France,349,1,196.50,2,1,1,211,Lost
+814,Customer 814,France,51,2,284.90,4,3,2,432,Loyal Customers
+815,Customer 815,France,28,2,443.97,5,2,3,523,New / Promising
+816,Customer 816,UK,26,4,1008.41,5,5,4,554,Champions
+817,Customer 817,Germany,340,1,165.80,2,1,1,211,Lost
+819,Customer 819,UK,120,3,1133.81,3,4,4,344,Loyal Customers
+820,Customer 820,Spain,154,4,3137.09,3,5,5,355,Loyal Customers
+821,Customer 821,Germany,34,3,613.22,4,4,3,443,Loyal Customers
+822,Customer 822,Germany,38,5,5507.23,4,5,5,455,Champions
+823,Customer 823,Germany,10,5,2706.58,5,5,5,555,Champions
+824,Customer 824,Germany,53,3,1382.67,4,4,4,444,Champions
+825,Customer 825,Spain,27,3,3336.54,5,4,5,545,Champions
+826,Customer 826,Spain,109,2,594.76,3,3,3,333,Loyal Customers
+827,Customer 827,Germany,112,5,1497.47,3,5,5,355,Loyal Customers
+829,Customer 829,France,345,1,65.88,2,1,1,211,Lost
+830,Customer 830,UK,2,4,4492.86,5,5,5,555,Champions
+831,Customer 831,UK,243,2,506.95,2,3,3,233,At Risk
+832,Customer 832,Spain,336,1,283.80,2,1,2,212,Lost
+833,Customer 833,Germany,333,2,174.59,2,3,1,231,At Risk
+834,Customer 834,UK,336,1,18.50,2,1,1,211,Lost
+835,Customer 835,France,314,3,819.87,2,4,4,244,At Risk
+837,Customer 837,France,344,1,28.62,2,1,1,211,Lost
+838,Customer 838,Spain,97,2,908.96,3,3,4,334,Loyal Customers
+839,Customer 839,France,149,2,439.99,3,3,3,333,Loyal Customers
+840,Customer 840,Germany,21,4,3653.58,5,5,5,555,Champions
+841,Customer 841,France,330,1,546.90,2,1,3,213,Lost
+842,Customer 842,Germany,142,4,671.34,3,5,3,353,Loyal Customers
+843,Customer 843,Germany,8,5,1045.21,5,5,4,554,Champions
+844,Customer 844,France,142,3,3291.31,3,4,5,345,Loyal Customers
+846,Customer 846,Germany,26,3,352.70,5,4,2,542,Loyal Customers
+848,Customer 848,France,232,3,1564.56,2,4,5,245,At Risk
+849,Customer 849,France,5,3,702.47,5,5,3,553,Loyal Customers
+850,Customer 850,UK,219,1,72.96,2,1,1,211,Lost
+851,Customer 851,France,52,2,2349.91,4,3,5,435,Loyal Customers
+852,Customer 852,UK,329,1,145.94,2,1,1,211,Lost
+854,Customer 854,Germany,57,1,366.79,4,2,2,422,New / Promising
+855,Customer 855,Germany,337,1,80.10,2,1,1,211,Lost
+856,Customer 856,Germany,328,1,48.97,2,1,1,211,Lost
+857,Customer 857,UK,115,2,681.31,3,3,3,333,Loyal Customers
+858,Customer 858,Germany,83,2,278.67,4,3,2,432,Loyal Customers
+859,Customer 859,UK,25,2,446.58,5,2,3,523,New / Promising
+860,Customer 860,UK,329,1,174.46,2,1,1,211,Lost
+862,Customer 862,Germany,13,6,1519.49,5,5,5,555,Champions
+864,Customer 864,France,161,2,139.93,3,3,1,331,Loyal Customers
+865,Customer 865,Germany,60,3,1174.90,4,4,4,444,Champions
+866,Customer 866,Spain,330,1,17.99,2,1,1,211,Lost
+867,Customer 867,Spain,333,1,500.00,2,1,3,213,Lost
+868,Customer 868,France,37,2,185.45,4,3,1,431,Loyal Customers
+869,Customer 869,UK,1,3,2982.77,5,5,5,555,Champions
+871,Customer 871,Germany,200,3,719.75,2,4,3,243,At Risk
+872,Customer 872,Germany,225,2,1382.17,2,3,4,234,At Risk
+874,Customer 874,Spain,332,1,333.67,2,1,2,212,Lost
+875,Customer 875,UK,331,1,113.78,2,1,1,211,Lost
+876,Customer 876,France,40,2,477.84,4,3,3,433,Loyal Customers
+877,Customer 877,Netherlands,138,2,1936.84,3,3,5,335,Loyal Customers
+878,Customer 878,UK,327,1,237.09,2,1,2,212,Lost
+879,Customer 879,Netherlands,125,3,941.41,3,4,4,344,Loyal Customers
+880,Customer 880,Spain,325,1,198.00,2,1,1,211,Lost
+881,Customer 881,Netherlands,131,3,1587.97,3,4,5,345,Loyal Customers
+882,Customer 882,Netherlands,287,2,496.95,2,3,3,233,At Risk
+883,Customer 883,Germany,73,4,860.91,4,5,4,454,Champions
+884,Customer 884,Netherlands,327,1,195.84,2,1,1,211,Lost
+886,Customer 886,Germany,12,2,1357.69,5,2,4,524,New / Promising
+887,Customer 887,UK,63,1,257.60,4,2,2,422,New / Promising
+888,Customer 888,Spain,198,2,798.58,2,3,4,234,At Risk
+890,Customer 890,Netherlands,100,3,811.44,3,4,4,344,Loyal Customers
+891,Customer 891,Netherlands,135,3,173.37,3,4,1,341,Loyal Customers
+893,Customer 893,Germany,118,1,158.00,3,1,1,311,Need Attention
+895,Customer 895,UK,323,1,27.49,2,1,1,211,Lost
+896,Customer 896,Germany,132,3,670.48,3,4,3,343,Loyal Customers
+897,Customer 897,Germany,270,3,1510.12,2,4,5,245,At Risk
+898,Customer 898,Germany,322,1,270.29,2,1,2,212,Lost
+899,Customer 899,UK,325,1,117.18,2,1,1,211,Lost
+900,Customer 900,UK,63,3,622.81,4,4,3,443,Loyal Customers
+901,Customer 901,Germany,322,1,79.80,2,1,1,211,Lost
+902,Customer 902,Netherlands,323,1,231.10,2,1,2,212,Lost
+903,Customer 903,Germany,73,2,219.35,4,3,2,432,Loyal Customers
+904,Customer 904,Netherlands,101,2,217.19,3,3,2,332,Loyal Customers
+905,Customer 905,UK,249,2,810.89,2,3,4,234,At Risk
+906,Customer 906,Germany,99,4,511.94,3,5,3,353,Loyal Customers
+907,Customer 907,Germany,323,1,596.00,2,1,3,213,Lost
+908,Customer 908,Germany,279,3,559.58,2,4,3,243,At Risk
+909,Customer 909,Germany,30,3,861.67,4,4,4,444,Champions
+910,Customer 910,Spain,77,4,2487.52,4,5,5,455,Champions
+911,Customer 911,Germany,40,4,1651.52,4,5,5,455,Champions
+912,Customer 912,Spain,276,3,705.83,2,4,3,243,At Risk
+915,Customer 915,France,311,1,81.66,2,1,1,211,Lost
+917,Customer 917,UK,24,7,3247.53,5,5,5,555,Champions
+918,Customer 918,Germany,4,4,1888.74,5,5,5,555,Champions
+919,Customer 919,UK,92,3,2786.82,3,4,5,345,Loyal Customers
+921,Customer 921,Spain,15,5,1812.81,5,5,5,555,Champions
+922,Customer 922,Germany,53,2,310.68,4,3,2,432,Loyal Customers
+923,Customer 923,UK,307,1,2864.97,2,1,5,215,Lost
+924,Customer 924,Spain,98,2,232.35,3,3,2,332,Loyal Customers
+925,Customer 925,Spain,4,13,3527.90,5,5,5,555,Champions
+926,Customer 926,France,165,3,794.07,3,4,3,343,Loyal Customers
+927,Customer 927,UK,17,5,3151.50,5,5,5,555,Champions
+928,Customer 928,Germany,245,2,408.00,2,3,2,232,At Risk
+929,Customer 929,Germany,40,4,2379.71,4,5,5,455,Champions
+930,Customer 930,France,185,2,317.99,3,3,2,332,Loyal Customers
+931,Customer 931,France,100,3,1273.17,3,4,4,344,Loyal Customers
+932,Customer 932,UK,91,2,1552.68,3,3,5,335,Loyal Customers
+933,Customer 933,UK,305,2,597.69,2,3,3,233,At Risk
+934,Customer 934,Germany,8,2,448.57,5,2,3,523,New / Promising
+935,Customer 935,Spain,110,2,1167.70,3,3,4,334,Loyal Customers
+936,Customer 936,UK,309,1,766.36,2,1,3,213,Lost
+937,Customer 937,Germany,304,2,786.77,2,3,3,233,At Risk
+938,Customer 938,Germany,305,1,188.01,2,1,1,211,Lost
+939,Customer 939,Germany,105,3,458.81,3,4,3,343,Loyal Customers
+941,Customer 941,UK,138,3,1712.27,3,4,5,345,Loyal Customers
+943,Customer 943,Germany,2,4,2158.46,5,5,5,555,Champions
+944,Customer 944,France,305,1,176.78,2,1,1,211,Lost
+946,Customer 946,Germany,304,1,211.49,2,1,2,212,Lost
+947,Customer 947,Germany,305,1,71.82,2,1,1,211,Lost
+948,Customer 948,France,135,2,447.60,3,3,3,333,Loyal Customers
+949,Customer 949,France,7,4,262.25,5,5,2,552,Loyal Customers
+950,Customer 950,France,26,4,864.55,5,5,4,554,Champions
+951,Customer 951,France,66,2,638.40,4,3,3,433,Loyal Customers
+952,Customer 952,France,310,1,1176.81,2,1,4,214,Lost
+953,Customer 953,Germany,78,3,1722.07,4,4,5,445,Champions
+954,Customer 954,Germany,46,2,348.68,4,3,2,432,Loyal Customers
+955,Customer 955,France,36,9,3875.36,4,5,5,455,Champions
+956,Customer 956,Germany,301,1,269.59,2,1,2,212,Lost
+957,Customer 957,France,190,2,903.95,3,3,4,334,Loyal Customers
+958,Customer 958,Germany,12,3,1495.69,5,5,4,554,Champions
+959,Customer 959,Spain,83,2,282.97,4,3,2,432,Loyal Customers
+960,Customer 960,France,29,4,269.82,4,5,2,452,Loyal Customers
+962,Customer 962,Germany,6,5,3485.46,5,5,5,555,Champions
+963,Customer 963,Germany,299,1,181.07,2,1,1,211,Lost
+964,Customer 964,UK,167,3,421.20,3,4,2,342,Loyal Customers
+965,Customer 965,France,202,3,247.78,2,4,2,242,At Risk
+966,Customer 966,France,280,1,80.88,2,1,1,211,Lost
+967,Customer 967,France,280,2,1163.88,2,3,4,234,At Risk
+968,Customer 968,Germany,262,2,699.65,2,3,3,233,At Risk
+969,Customer 969,Spain,281,2,309.78,2,3,2,232,At Risk
+970,Customer 970,UK,234,2,3738.56,2,3,5,235,At Risk
+973,Customer 973,Netherlands,158,2,967.28,3,3,4,334,Loyal Customers
+974,Customer 974,Germany,285,2,314.27,2,3,2,232,At Risk
+975,Customer 975,Spain,144,3,1898.26,3,4,5,345,Loyal Customers
+976,Customer 976,Netherlands,49,4,1353.90,4,5,4,454,Champions
+977,Customer 977,Germany,5,1,229.60,5,2,2,522,New / Promising
+978,Customer 978,Germany,295,1,12.99,2,1,1,211,Lost
+979,Customer 979,Netherlands,137,2,554.71,3,3,3,333,Loyal Customers
+980,Customer 980,Germany,168,3,1387.63,3,4,4,344,Loyal Customers
+981,Customer 981,Germany,269,1,249.00,2,1,2,212,Lost
+982,Customer 982,Spain,18,5,1346.14,5,5,4,554,Champions
+983,Customer 983,Germany,69,3,961.90,4,4,4,444,Champions
+984,Customer 984,Germany,81,4,545.67,4,5,3,453,Loyal Customers
+985,Customer 985,Germany,276,2,443.20,2,3,3,233,At Risk
+986,Customer 986,UK,28,3,1143.59,5,4,4,544,Champions
+987,Customer 987,UK,154,4,2637.11,3,5,5,355,Loyal Customers
+988,Customer 988,Netherlands,298,1,449.00,2,1,3,213,Lost
+989,Customer 989,France,114,2,1676.75,3,3,5,335,Loyal Customers
+990,Customer 990,Germany,3,4,668.95,5,5,3,553,Loyal Customers
+991,Customer 991,Netherlands,17,4,2065.01,5,5,5,555,Champions
+992,Customer 992,UK,240,2,395.80,2,3,2,232,At Risk
+993,Customer 993,UK,77,3,459.29,4,4,3,443,Loyal Customers
+994,Customer 994,Germany,31,4,5099.94,4,5,5,455,Champions
+995,Customer 995,UK,233,2,317.12,2,3,2,232,At Risk
+996,Customer 996,France,189,3,998.71,3,4,4,344,Loyal Customers
+997,Customer 997,Germany,288,2,4242.64,2,3,5,235,At Risk
+998,Customer 998,Spain,33,5,609.16,4,5,3,453,Loyal Customers
+999,Customer 999,Spain,93,4,971.20,3,5,4,354,Loyal Customers
+1001,Customer 1001,Germany,31,5,4351.67,4,5,5,455,Champions
+1002,Customer 1002,Spain,15,3,1089.46,5,5,4,554,Champions
+1003,Customer 1003,Spain,286,1,476.80,2,1,3,213,Lost
+1005,Customer 1005,Spain,30,2,1503.31,4,2,5,425,New / Promising
+1006,Customer 1006,Germany,23,4,2351.34,5,5,5,555,Champions
+1008,Customer 1008,UK,273,2,3871.18,2,3,5,235,At Risk
+1009,Customer 1009,Germany,149,1,79.00,3,1,1,311,Need Attention
+1010,Customer 1010,UK,204,3,3019.18,2,4,5,245,At Risk
+1012,Customer 1012,Germany,158,2,105.40,3,3,1,331,Loyal Customers
+1014,Customer 1014,Spain,100,1,318.08,3,2,2,322,Need Attention
+1015,Customer 1015,UK,234,2,2024.66,2,3,5,235,At Risk
+1016,Customer 1016,France,291,1,807.80,2,1,4,214,Lost
+1017,Customer 1017,Netherlands,12,3,1687.67,5,5,5,555,Champions
+1018,Customer 1018,Germany,27,2,506.70,5,2,3,523,New / Promising
+1019,Customer 1019,UK,15,5,961.88,5,5,4,554,Champions
+1020,Customer 1020,Netherlands,283,1,170.91,2,1,1,211,Lost
+1021,Customer 1021,UK,21,4,282.67,5,5,2,552,Loyal Customers
+1022,Customer 1022,France,83,3,1459.98,4,4,4,444,Champions
+1025,Customer 1025,Germany,54,2,877.88,4,3,4,434,Loyal Customers
+1026,Customer 1026,Germany,278,1,284.80,2,1,2,212,Lost
+1027,Customer 1027,Netherlands,109,3,1633.44,3,4,5,345,Loyal Customers
+1028,Customer 1028,UK,25,3,391.39,5,4,2,542,Loyal Customers
+1029,Customer 1029,Germany,60,3,802.92,4,4,4,444,Champions
+1030,Customer 1030,Germany,44,3,2905.30,4,4,5,445,Champions
+1031,Customer 1031,Germany,220,2,2903.50,2,3,5,235,At Risk
+1032,Customer 1032,Germany,264,3,1772.18,2,4,5,245,At Risk
+1033,Customer 1033,Germany,221,3,685.48,2,4,3,243,At Risk
+1034,Customer 1034,France,33,3,78.50,4,4,1,441,Loyal Customers
+1035,Customer 1035,UK,283,1,134.98,2,1,1,211,Lost
+1036,Customer 1036,UK,275,1,179.00,2,1,1,211,Lost
+1037,Customer 1037,France,274,1,381.49,2,1,2,212,Lost
+1038,Customer 1038,Germany,273,1,429.01,2,1,2,212,Lost
+1039,Customer 1039,Germany,283,1,90.68,2,1,1,211,Lost
+1040,Customer 1040,Spain,14,4,2215.07,5,5,5,555,Champions
+1041,Customer 1041,Spain,263,1,898.98,2,1,4,214,Lost
+1042,Customer 1042,Spain,244,2,515.56,2,3,3,233,At Risk
+1043,Customer 1043,Netherlands,44,2,369.88,4,3,2,432,Loyal Customers
+1044,Customer 1044,France,116,1,970.54,3,2,4,324,Need Attention
+1045,Customer 1045,Germany,283,1,531.69,2,1,3,213,Lost
+1046,Customer 1046,Spain,7,2,501.37,5,2,3,523,New / Promising
+1048,Customer 1048,France,279,1,97.78,2,1,1,211,Lost
+1049,Customer 1049,France,164,3,650.24,3,4,3,343,Loyal Customers
+1051,Customer 1051,UK,25,12,11294.29,5,5,5,555,Champions
+1052,Customer 1052,Germany,19,6,3357.29,5,5,5,555,Champions
+1053,Customer 1053,Spain,47,2,608.38,4,3,3,433,Loyal Customers
+1054,Customer 1054,Germany,15,3,468.65,5,5,3,553,Loyal Customers
+1055,Customer 1055,Netherlands,185,4,1577.60,3,5,5,355,Loyal Customers
+1056,Customer 1056,Germany,278,1,312.28,2,1,2,212,Lost
+1057,Customer 1057,Germany,237,2,326.39,2,3,2,232,At Risk
+1058,Customer 1058,Germany,272,1,153.29,2,1,1,211,Lost
+1059,Customer 1059,Germany,157,2,71.89,3,3,1,331,Loyal Customers
+1060,Customer 1060,Netherlands,36,5,2033.48,4,5,5,455,Champions
+1061,Customer 1061,Germany,269,1,448.80,2,1,3,213,Lost
+1063,Customer 1063,Germany,213,2,109.88,2,3,1,231,At Risk
+1064,Customer 1064,Germany,265,1,152.69,2,1,1,211,Lost
+1065,Customer 1065,Spain,275,1,16.65,2,1,1,211,Lost
+1066,Customer 1066,France,275,1,204.39,2,1,2,212,Lost
+1067,Customer 1067,France,6,3,2645.19,5,5,5,555,Champions
+1068,Customer 1068,Netherlands,268,1,198.00,2,1,1,211,Lost
+1070,Customer 1070,UK,259,2,698.86,2,3,3,233,At Risk
+1071,Customer 1071,Netherlands,54,3,3245.69,4,4,5,445,Champions
+1073,Customer 1073,UK,198,3,570.17,2,4,3,243,At Risk
+1074,Customer 1074,Netherlands,265,2,1063.39,2,3,4,234,At Risk
+1075,Customer 1075,Spain,140,4,1373.61,3,5,4,354,Loyal Customers
+1076,Customer 1076,Germany,41,5,3111.77,4,5,5,455,Champions
+1077,Customer 1077,Germany,224,2,1230.21,2,3,4,234,At Risk
+1078,Customer 1078,Germany,203,2,402.10,2,3,2,232,At Risk
+1079,Customer 1079,Spain,272,1,89.70,2,1,1,211,Lost
+1080,Customer 1080,France,149,4,944.59,3,5,4,354,Loyal Customers
+1081,Customer 1081,France,258,2,216.89,2,3,2,232,At Risk
+1082,Customer 1082,France,20,2,482.90,5,2,3,523,New / Promising
+1083,Customer 1083,UK,164,2,333.77,3,3,2,332,Loyal Customers
+1087,Customer 1087,France,34,6,1382.43,4,5,4,454,Champions
+1088,Customer 1088,France,4,3,636.05,5,5,3,553,Loyal Customers
+1089,Customer 1089,Spain,268,1,103.38,2,1,1,211,Lost
+1092,Customer 1092,UK,6,2,222.90,5,2,2,522,New / Promising
+1093,Customer 1093,France,120,3,551.06,3,4,3,343,Loyal Customers
+1095,Customer 1095,Germany,182,4,1028.69,3,5,4,354,Loyal Customers
+1097,Customer 1097,UK,1,2,5121.67,5,2,5,525,New / Promising
+1098,Customer 1098,Germany,100,3,1239.29,3,4,4,344,Loyal Customers
+1099,Customer 1099,Netherlands,96,2,58.48,3,3,1,331,Loyal Customers
+1100,Customer 1100,Germany,105,3,881.80,3,4,4,344,Loyal Customers
+1102,Customer 1102,UK,258,1,122.40,2,1,1,211,Lost
+1103,Customer 1103,Germany,6,3,2338.69,5,5,5,555,Champions
+1104,Customer 1104,UK,246,1,280.97,2,1,2,212,Lost
+1105,Customer 1105,Netherlands,22,2,117.29,5,2,1,521,New / Promising
+1106,Customer 1106,Germany,261,1,106.20,2,1,1,211,Lost
+1107,Customer 1107,UK,1,2,810.56,5,2,4,524,New / Promising
+1110,Customer 1110,France,34,3,674.96,4,4,3,443,Loyal Customers
+1111,Customer 1111,Spain,18,4,1801.67,5,5,5,555,Champions
+1112,Customer 1112,Germany,265,1,63.38,2,1,1,211,Lost
+1114,Customer 1114,Germany,253,1,317.80,2,1,2,212,Lost
+1115,Customer 1115,Germany,261,1,70.30,2,1,1,211,Lost
+1117,Customer 1117,Germany,83,3,4528.49,4,4,5,445,Champions
+1118,Customer 1118,Netherlands,256,1,59.90,2,1,1,211,Lost
+1119,Customer 1119,Germany,252,2,357.90,2,3,2,232,At Risk
+1120,Customer 1120,Germany,234,3,318.60,2,4,2,242,At Risk
+1121,Customer 1121,Germany,250,1,148.99,2,1,1,211,Lost
+1122,Customer 1122,France,59,2,211.38,4,3,2,432,Loyal Customers
+1123,Customer 1123,UK,46,3,742.77,4,4,3,443,Loyal Customers
+1124,Customer 1124,UK,246,1,2363.99,2,1,5,215,Lost
+1125,Customer 1125,Spain,35,3,2132.09,4,4,5,445,Champions
+1127,Customer 1127,Germany,39,2,573.09,4,3,3,433,Loyal Customers
+1128,Customer 1128,Germany,261,1,31.98,2,1,1,211,Lost
+1129,Customer 1129,UK,17,3,1530.24,5,5,5,555,Champions
+1131,Customer 1131,Netherlands,22,2,47.97,5,2,1,521,New / Promising
+1133,Customer 1133,Netherlands,246,1,109.90,2,1,1,211,Lost
+1134,Customer 1134,Germany,123,1,441.70,3,1,3,313,Need Attention
+1135,Customer 1135,France,35,3,803.64,4,4,4,444,Champions
+1136,Customer 1136,Germany,254,1,461.70,2,1,3,213,Lost
+1137,Customer 1137,France,248,1,201.47,2,1,1,211,Lost
+1138,Customer 1138,Germany,46,2,331.20,4,3,2,432,Loyal Customers
+1139,Customer 1139,Netherlands,243,1,89.00,2,1,1,211,Lost
+1140,Customer 1140,France,251,1,164.99,2,1,1,211,Lost
+1141,Customer 1141,UK,5,2,125.69,5,2,1,521,New / Promising
+1142,Customer 1142,Germany,42,3,307.70,4,4,2,442,Loyal Customers
+1143,Customer 1143,Germany,224,2,816.65,2,3,4,234,At Risk
+1144,Customer 1144,Germany,59,5,2952.79,4,5,5,455,Champions
+1145,Customer 1145,UK,175,3,808.20,3,4,4,344,Loyal Customers
+1146,Customer 1146,Germany,251,1,650.99,2,1,3,213,Lost
+1147,Customer 1147,UK,71,2,599.39,4,3,3,433,Loyal Customers
+1149,Customer 1149,UK,179,3,1046.59,3,4,4,344,Loyal Customers
+1150,Customer 1150,UK,57,3,567.97,4,4,3,443,Loyal Customers
+1151,Customer 1151,Netherlands,23,4,2339.15,5,5,5,555,Champions
+1152,Customer 1152,Germany,35,4,1829.59,4,5,5,455,Champions
+1155,Customer 1155,France,8,12,1765.82,5,5,5,555,Champions
+1156,Customer 1156,Germany,107,3,1114.69,3,4,4,344,Loyal Customers
+1158,Customer 1158,UK,167,2,1287.05,3,3,4,334,Loyal Customers
+1160,Customer 1160,Germany,248,1,358.00,2,1,2,212,Lost
+1161,Customer 1161,UK,183,1,22.99,3,1,1,311,Need Attention
+1162,Customer 1162,Spain,8,3,947.76,5,5,4,554,Champions
+1164,Customer 1164,Spain,29,3,3989.47,5,4,5,545,Champions
+1165,Customer 1165,France,46,2,867.97,4,3,4,434,Loyal Customers
+1166,Customer 1166,Netherlands,34,1,49.90,4,2,1,421,New / Promising
+1167,Customer 1167,UK,10,3,901.65,5,5,4,554,Champions
+1168,Customer 1168,Germany,2,3,2297.48,5,5,5,555,Champions
+1169,Customer 1169,France,231,2,679.67,2,3,3,233,At Risk
+1171,Customer 1171,Germany,39,3,856.66,4,4,4,444,Champions
+1172,Customer 1172,Germany,39,4,1425.95,4,5,4,454,Champions
+1175,Customer 1175,France,69,3,1013.97,4,4,4,444,Champions
+1176,Customer 1176,France,33,3,203.86,4,4,2,442,Loyal Customers
+1177,Customer 1177,UK,205,2,1009.98,2,3,4,234,At Risk
+1179,Customer 1179,Germany,208,2,127.49,2,3,1,231,At Risk
+1180,Customer 1180,France,123,2,345.69,3,3,2,332,Loyal Customers
+1181,Customer 1181,UK,147,2,615.15,3,3,3,333,Loyal Customers
+1182,Customer 1182,UK,74,2,835.70,4,3,4,434,Loyal Customers
+1183,Customer 1183,Germany,198,2,597.84,2,3,3,233,At Risk
+1184,Customer 1184,Spain,223,2,1189.54,2,3,4,234,At Risk
+1185,Customer 1185,UK,224,1,244.09,2,1,2,212,Lost
+1187,Customer 1187,Germany,231,1,213.37,2,1,2,212,Lost
+1188,Customer 1188,Germany,182,2,1875.00,3,3,5,335,Loyal Customers
+1189,Customer 1189,Spain,234,1,275.89,2,1,2,212,Lost
+1191,Customer 1191,UK,17,4,3018.04,5,5,5,555,Champions
+1192,Customer 1192,France,228,1,178.00,2,1,1,211,Lost
+1193,Customer 1193,France,137,2,823.69,3,3,4,334,Loyal Customers
+1194,Customer 1194,UK,224,1,506.70,2,1,3,213,Lost
+1195,Customer 1195,Germany,38,6,1615.20,4,5,5,455,Champions
+1196,Customer 1196,Germany,21,5,1656.44,5,5,5,555,Champions
+1197,Customer 1197,France,100,3,135.20,3,4,1,341,Loyal Customers
+1198,Customer 1198,UK,219,1,238.90,2,1,2,212,Lost
+1199,Customer 1199,Spain,68,3,4676.49,4,4,5,445,Champions
+1200,Customer 1200,France,25,3,4153.51,5,4,5,545,Champions
+1201,Customer 1201,Spain,206,2,657.84,2,3,3,233,At Risk
+1202,Customer 1202,Germany,4,5,4709.65,5,5,5,555,Champions
+1204,Customer 1204,Netherlands,224,1,2910.79,2,1,5,215,Lost
+1206,Customer 1206,France,74,4,961.33,4,5,4,454,Champions
+1207,Customer 1207,UK,56,2,1118.58,4,3,4,434,Loyal Customers
+1209,Customer 1209,Spain,172,2,148.90,3,3,1,331,Loyal Customers
+1210,Customer 1210,Netherlands,183,3,620.09,3,4,3,343,Loyal Customers
+1211,Customer 1211,Germany,220,1,20.69,2,1,1,211,Lost
+1212,Customer 1212,UK,104,1,90.85,3,2,1,321,Need Attention
+1213,Customer 1213,Germany,226,1,59.80,2,1,1,211,Lost
+1214,Customer 1214,UK,24,3,2372.56,5,5,5,555,Champions
+1216,Customer 1216,Netherlands,177,3,4278.20,3,4,5,345,Loyal Customers
+1217,Customer 1217,Netherlands,47,4,1691.63,4,5,5,455,Champions
+1218,Customer 1218,Germany,213,2,2880.49,2,3,5,235,At Risk
+1219,Customer 1219,Germany,5,5,1613.96,5,5,5,555,Champions
+1220,Customer 1220,Germany,115,3,879.60,3,4,4,344,Loyal Customers
+1221,Customer 1221,Germany,218,1,93.27,2,1,1,211,Lost
+1222,Customer 1222,Germany,145,1,190.90,3,1,1,311,Need Attention
+1224,Customer 1224,UK,27,4,1027.36,5,5,4,554,Champions
+1226,Customer 1226,UK,96,2,720.94,3,3,3,333,Loyal Customers
+1227,Customer 1227,UK,208,1,362.97,2,1,2,212,Lost
+1228,Customer 1228,Germany,76,3,941.09,4,4,4,444,Champions
+1229,Customer 1229,Netherlands,185,2,344.53,3,3,2,332,Loyal Customers
+1230,Customer 1230,Germany,141,3,741.08,3,4,3,343,Loyal Customers
+1231,Customer 1231,UK,209,1,217.09,2,1,2,212,Lost
+1232,Customer 1232,UK,58,3,549.14,4,4,3,443,Loyal Customers
+1233,Customer 1233,Spain,215,1,39.90,2,1,1,211,Lost
+1234,Customer 1234,Netherlands,217,1,14.90,2,1,1,211,Lost
+1235,Customer 1235,Netherlands,213,1,99.80,2,1,1,211,Lost
+1236,Customer 1236,France,188,2,565.70,3,3,3,333,Loyal Customers
+1238,Customer 1238,Netherlands,75,2,129.46,4,3,1,431,Loyal Customers
+1239,Customer 1239,Germany,71,2,1496.88,4,3,4,434,Loyal Customers
+1240,Customer 1240,Germany,212,1,1142.99,2,1,4,214,Lost
+1241,Customer 1241,Spain,107,3,1643.09,3,4,5,345,Loyal Customers
+1242,Customer 1242,France,6,1,347.99,5,2,2,522,New / Promising
+1243,Customer 1243,Netherlands,118,2,1598.27,3,3,5,335,Loyal Customers
+1244,Customer 1244,Germany,206,1,358.20,2,1,2,212,Lost
+1246,Customer 1246,France,210,1,53.10,2,1,1,211,Lost
+1247,Customer 1247,Spain,45,4,912.13,4,5,4,454,Champions
+1248,Customer 1248,Netherlands,120,2,672.50,3,3,3,333,Loyal Customers
+1249,Customer 1249,Germany,52,3,448.45,4,4,3,443,Loyal Customers
+1251,Customer 1251,France,104,4,331.13,3,5,2,352,Loyal Customers
+1253,Customer 1253,France,34,2,269.88,4,2,2,422,New / Promising
+1254,Customer 1254,Spain,211,1,119.60,2,1,1,211,Lost
+1255,Customer 1255,France,190,2,524.25,3,3,3,333,Loyal Customers
+1256,Customer 1256,Germany,210,1,29.90,2,1,1,211,Lost
+1258,Customer 1258,Spain,198,1,478.99,2,1,3,213,Lost
+1259,Customer 1259,Germany,135,2,247.59,3,3,2,332,Loyal Customers
+1260,Customer 1260,Netherlands,165,3,881.57,3,4,4,344,Loyal Customers
+1261,Customer 1261,Germany,200,1,53.10,2,1,1,211,Lost
+1262,Customer 1262,UK,19,3,2881.16,5,5,5,555,Champions
+1263,Customer 1263,UK,158,2,1361.66,3,3,4,334,Loyal Customers
+1264,Customer 1264,Netherlands,125,3,1097.58,3,4,4,344,Loyal Customers
+1265,Customer 1265,UK,143,4,2061.77,3,5,5,355,Loyal Customers
+1267,Customer 1267,France,198,1,42.98,2,1,1,211,Lost
+1268,Customer 1268,UK,190,2,656.00,3,3,3,333,Loyal Customers
+1269,Customer 1269,Spain,189,1,323.19,3,1,2,312,Need Attention
+1270,Customer 1270,Netherlands,166,3,3644.17,3,4,5,345,Loyal Customers
+1271,Customer 1271,UK,194,2,1096.28,2,3,4,234,At Risk
+1272,Customer 1272,Germany,157,3,904.47,3,4,4,344,Loyal Customers
+1273,Customer 1273,France,102,2,259.80,3,3,2,332,Loyal Customers
+1275,Customer 1275,UK,38,5,1379.55,4,5,4,454,Champions
+1276,Customer 1276,Spain,36,3,452.81,4,4,3,443,Loyal Customers
+1277,Customer 1277,UK,4,2,297.49,5,2,2,522,New / Promising
+1278,Customer 1278,UK,17,1,272.98,5,2,2,522,New / Promising
+1279,Customer 1279,France,198,1,465.49,2,1,3,213,Lost
+1281,Customer 1281,Germany,191,1,80.09,3,1,1,311,Need Attention
+1282,Customer 1282,Germany,90,3,222.09,3,4,2,342,Loyal Customers
+1283,Customer 1283,UK,194,1,242.80,2,1,2,212,Lost
+1284,Customer 1284,Germany,101,2,491.49,3,3,3,333,Loyal Customers
+1285,Customer 1285,Netherlands,190,1,615.96,3,1,3,313,Need Attention
+1286,Customer 1286,UK,133,2,1771.69,3,3,5,335,Loyal Customers
+1287,Customer 1287,UK,116,2,894.94,3,3,4,334,Loyal Customers
+1288,Customer 1288,Germany,195,1,119.96,2,1,1,211,Lost
+1290,Customer 1290,Netherlands,83,2,1231.87,4,3,4,434,Loyal Customers
+1292,Customer 1292,Germany,97,2,257.97,3,3,2,332,Loyal Customers
+1294,Customer 1294,UK,186,2,1782.31,3,3,5,335,Loyal Customers
+1295,Customer 1295,France,187,1,922.85,3,1,4,314,Need Attention
+1297,Customer 1297,Spain,192,1,395.49,3,1,2,312,Need Attention
+1298,Customer 1298,France,38,2,222.89,4,3,2,432,Loyal Customers
+1300,Customer 1300,Germany,90,3,1558.16,3,4,5,345,Loyal Customers
+1301,Customer 1301,Spain,188,2,257.80,3,3,2,332,Loyal Customers
+1304,Customer 1304,Netherlands,166,2,272.96,3,3,2,332,Loyal Customers
+1305,Customer 1305,Germany,2,3,266.34,5,5,2,552,Loyal Customers
+1306,Customer 1306,Germany,41,4,899.08,4,5,4,454,Champions
+1308,Customer 1308,Netherlands,194,1,269.58,2,1,2,212,Lost
+1309,Customer 1309,UK,181,1,49.90,3,1,1,311,Need Attention
+1310,Customer 1310,France,149,2,710.62,3,3,3,333,Loyal Customers
+1311,Customer 1311,France,184,2,774.67,3,3,3,333,Loyal Customers
+1312,Customer 1312,Spain,19,3,575.66,5,5,3,553,Loyal Customers
+1314,Customer 1314,France,163,2,240.24,3,3,2,332,Loyal Customers
+1315,Customer 1315,UK,118,2,1223.24,3,3,4,334,Loyal Customers
+1316,Customer 1316,UK,157,3,601.47,3,4,3,343,Loyal Customers
+1317,Customer 1317,France,105,2,744.88,3,3,3,333,Loyal Customers
+1319,Customer 1319,Germany,101,2,1735.70,3,3,5,335,Loyal Customers
+1321,Customer 1321,Netherlands,166,2,1216.70,3,3,4,334,Loyal Customers
+1322,Customer 1322,Germany,186,1,92.95,3,1,1,311,Need Attention
+1324,Customer 1324,Germany,187,1,279.60,3,1,2,312,Need Attention
+1325,Customer 1325,Germany,170,2,1207.80,3,3,4,334,Loyal Customers
+1326,Customer 1326,Germany,53,3,530.38,4,4,3,443,Loyal Customers
+1327,Customer 1327,Spain,189,1,479.50,3,1,3,313,Need Attention
+1329,Customer 1329,Netherlands,27,4,1134.23,5,5,4,554,Champions
+1330,Customer 1330,France,92,2,2295.90,3,3,5,335,Loyal Customers
+1331,Customer 1331,Germany,183,1,60.81,3,1,1,311,Need Attention
+1333,Customer 1333,Germany,183,1,232.20,3,1,2,312,Need Attention
+1334,Customer 1334,France,182,1,876.80,3,1,4,314,Need Attention
+1335,Customer 1335,France,19,2,582.29,5,2,3,523,New / Promising
+1336,Customer 1336,Netherlands,112,2,193.89,3,3,1,331,Loyal Customers
+1337,Customer 1337,Germany,34,2,115.68,4,2,1,421,New / Promising
+1340,Customer 1340,Spain,181,1,325.25,3,1,2,312,Need Attention
+1345,Customer 1345,Germany,16,3,986.78,5,5,4,554,Champions
+1346,Customer 1346,Germany,179,1,270.24,3,1,2,312,Need Attention
+1347,Customer 1347,UK,34,4,939.71,4,5,4,454,Champions
+1348,Customer 1348,France,51,5,1056.44,4,5,4,454,Champions
+1349,Customer 1349,Netherlands,179,1,39.98,3,1,1,311,Need Attention
+1350,Customer 1350,France,161,2,2118.38,3,3,5,335,Loyal Customers
+1351,Customer 1351,France,130,2,491.49,3,3,3,333,Loyal Customers
+1352,Customer 1352,Germany,174,1,833.84,3,1,4,314,Need Attention
+1354,Customer 1354,Germany,175,1,56.58,3,1,1,311,Need Attention
+1355,Customer 1355,Netherlands,23,4,2349.05,5,5,5,555,Champions
+1356,Customer 1356,Germany,91,3,889.99,3,4,4,344,Loyal Customers
+1357,Customer 1357,France,138,2,343.89,3,3,2,332,Loyal Customers
+1358,Customer 1358,UK,3,4,1575.75,5,5,5,555,Champions
+1359,Customer 1359,Spain,95,2,417.97,3,3,2,332,Loyal Customers
+1360,Customer 1360,Germany,142,2,398.52,3,3,2,332,Loyal Customers
+1361,Customer 1361,UK,22,3,925.27,5,5,4,554,Champions
+1362,Customer 1362,France,39,2,1011.55,4,3,4,434,Loyal Customers
+1364,Customer 1364,Germany,97,2,324.98,3,3,2,332,Loyal Customers
+1365,Customer 1365,Netherlands,164,1,135.58,3,1,1,311,Need Attention
+1366,Customer 1366,France,102,2,1483.70,3,3,4,334,Loyal Customers
+1367,Customer 1367,Germany,169,2,289.27,3,3,2,332,Loyal Customers
+1368,Customer 1368,Netherlands,172,1,152.64,3,1,1,311,Need Attention
+1369,Customer 1369,Spain,156,2,226.36,3,3,2,332,Loyal Customers
+1371,Customer 1371,Germany,27,3,291.90,5,4,2,542,Loyal Customers
+1372,Customer 1372,UK,148,2,1282.98,3,3,4,334,Loyal Customers
+1374,Customer 1374,UK,169,1,565.30,3,1,3,313,Need Attention
+1375,Customer 1375,Netherlands,160,2,455.56,3,3,3,333,Loyal Customers
+1376,Customer 1376,Germany,130,2,523.82,3,3,3,333,Loyal Customers
+1379,Customer 1379,Germany,38,1,596.30,4,2,3,423,New / Promising
+1380,Customer 1380,Germany,173,1,207.98,3,1,2,312,Need Attention
+1381,Customer 1381,UK,95,3,820.63,3,4,4,344,Loyal Customers
+1382,Customer 1382,France,166,2,542.60,3,3,3,333,Loyal Customers
+1383,Customer 1383,Spain,109,2,778.80,3,3,3,333,Loyal Customers
+1384,Customer 1384,UK,80,2,1091.90,4,3,4,434,Loyal Customers
+1385,Customer 1385,Germany,29,3,391.47,5,4,2,542,Loyal Customers
+1386,Customer 1386,France,59,2,317.60,4,3,2,432,Loyal Customers
+1387,Customer 1387,Spain,117,2,265.42,3,3,2,332,Loyal Customers
+1389,Customer 1389,France,25,1,99.00,5,2,1,521,New / Promising
+1391,Customer 1391,UK,153,2,805.18,3,3,4,334,Loyal Customers
+1392,Customer 1392,Spain,32,2,646.47,4,2,3,423,New / Promising
+1394,Customer 1394,Germany,12,3,2309.59,5,5,5,555,Champions
+1396,Customer 1396,Spain,161,1,308.90,3,1,2,312,Need Attention
+1397,Customer 1397,France,44,3,229.88,4,4,2,442,Loyal Customers
+1398,Customer 1398,Germany,166,1,64.88,3,1,1,311,Need Attention
+1400,Customer 1400,Germany,145,2,703.27,3,3,3,333,Loyal Customers
+1401,Customer 1401,Spain,35,2,1618.46,4,2,5,425,New / Promising
+1402,Customer 1402,Germany,51,3,830.39,4,4,4,444,Champions
+1403,Customer 1403,France,16,2,630.79,5,2,3,523,New / Promising
+1404,Customer 1404,Germany,163,1,249.00,3,1,2,312,Need Attention
+1405,Customer 1405,Germany,166,1,417.71,3,1,2,312,Need Attention
+1407,Customer 1407,UK,154,1,250.99,3,1,2,312,Need Attention
+1408,Customer 1408,Spain,165,1,146.08,3,1,1,311,Need Attention
+1409,Customer 1409,Netherlands,41,2,338.34,4,3,2,432,Loyal Customers
+1410,Customer 1410,France,143,2,1073.24,3,3,4,334,Loyal Customers
+1412,Customer 1412,UK,147,2,109.09,3,3,1,331,Loyal Customers
+1413,Customer 1413,Germany,155,1,258.00,3,1,2,312,Need Attention
+1414,Customer 1414,Spain,153,1,92.86,3,1,1,311,Need Attention
+1415,Customer 1415,Netherlands,90,3,2084.25,4,4,5,445,Champions
+1417,Customer 1417,Germany,12,2,76.58,5,2,1,521,New / Promising
+1418,Customer 1418,Spain,65,2,676.48,4,3,3,433,Loyal Customers
+1420,Customer 1420,Germany,157,1,389.39,3,1,2,312,Need Attention
+1421,Customer 1421,Netherlands,49,3,1235.64,4,4,4,444,Champions
+1422,Customer 1422,France,42,2,926.70,4,3,4,434,Loyal Customers
+1423,Customer 1423,Spain,12,3,2332.42,5,5,5,555,Champions
+1425,Customer 1425,UK,125,2,890.31,3,3,4,334,Loyal Customers
+1426,Customer 1426,UK,159,1,556.50,3,1,3,313,Need Attention
+1427,Customer 1427,UK,123,3,2358.24,3,4,5,345,Loyal Customers
+1428,Customer 1428,Netherlands,35,3,955.64,4,4,4,444,Champions
+1429,Customer 1429,France,1,3,694.96,5,5,3,553,Loyal Customers
+1431,Customer 1431,Germany,151,2,181.07,3,3,1,331,Loyal Customers
+1433,Customer 1433,Germany,151,1,590.99,3,1,3,313,Need Attention
+1434,Customer 1434,UK,159,1,149.00,3,1,1,311,Need Attention
+1435,Customer 1435,Spain,43,3,756.40,4,4,3,443,Loyal Customers
+1436,Customer 1436,Germany,40,5,1715.07,4,5,5,455,Champions
+1437,Customer 1437,Germany,149,1,117.48,3,1,1,311,Need Attention
+1438,Customer 1438,France,74,1,1591.47,4,2,5,425,New / Promising
+1439,Customer 1439,Germany,8,3,2682.47,5,5,5,555,Champions
+1440,Customer 1440,Netherlands,76,2,453.07,4,3,3,433,Loyal Customers
+1441,Customer 1441,Netherlands,69,4,941.36,4,5,4,454,Champions
+1442,Customer 1442,Germany,34,7,3360.56,4,5,5,455,Champions
+1443,Customer 1443,Germany,42,4,1322.34,4,5,4,454,Champions
+1444,Customer 1444,UK,22,3,3142.61,5,5,5,555,Champions
+1445,Customer 1445,France,155,1,1855.38,3,1,5,315,Need Attention
+1446,Customer 1446,Germany,4,3,1660.35,5,5,5,555,Champions
+1447,Customer 1447,France,142,1,165.77,3,1,1,311,Need Attention
+1448,Customer 1448,UK,63,2,259.56,4,3,2,432,Loyal Customers
+1449,Customer 1449,Germany,148,1,775.00,3,1,3,313,Need Attention
+1450,Customer 1450,Netherlands,26,2,168.85,5,2,1,521,New / Promising
+1451,Customer 1451,Netherlands,10,4,682.02,5,5,3,553,Loyal Customers
+1452,Customer 1452,UK,151,1,100.65,3,1,1,311,Need Attention
+1453,Customer 1453,Spain,148,1,311.82,3,1,2,312,Need Attention
+1454,Customer 1454,Germany,142,1,750.79,3,1,3,313,Need Attention
+1455,Customer 1455,Germany,144,1,29.80,3,1,1,311,Need Attention
+1456,Customer 1456,Netherlands,130,1,150.57,3,1,1,311,Need Attention
+1458,Customer 1458,UK,56,2,3128.58,4,3,5,435,Loyal Customers
+1459,Customer 1459,UK,139,1,273.69,3,1,2,312,Need Attention
+1460,Customer 1460,Germany,54,2,302.90,4,3,2,432,Loyal Customers
+1462,Customer 1462,France,100,3,1054.42,3,4,4,344,Loyal Customers
+1463,Customer 1463,Germany,83,3,1010.44,4,4,4,444,Champions
+1467,Customer 1467,Germany,140,1,53.97,3,1,1,311,Need Attention
+1468,Customer 1468,Spain,139,1,213.60,3,1,2,312,Need Attention
+1469,Customer 1469,UK,147,1,120.80,3,1,1,311,Need Attention
+1470,Customer 1470,Netherlands,139,1,1357.97,3,1,4,314,Need Attention
+1471,Customer 1471,France,55,3,215.78,4,4,2,442,Loyal Customers
+1472,Customer 1472,Netherlands,145,1,2316.99,3,1,5,315,Need Attention
+1473,Customer 1473,Spain,143,1,366.90,3,1,2,312,Need Attention
+1475,Customer 1475,Germany,6,2,2310.75,5,2,5,525,New / Promising
+1477,Customer 1477,Germany,146,1,133.90,3,1,1,311,Need Attention
+1478,Customer 1478,Germany,139,1,581.18,3,1,3,313,Need Attention
+1479,Customer 1479,Netherlands,134,1,557.00,3,1,3,313,Need Attention
+1480,Customer 1480,Germany,136,1,174.39,3,1,1,311,Need Attention
+1483,Customer 1483,UK,136,1,244.88,3,1,2,312,Need Attention
+1484,Customer 1484,Spain,134,1,59.96,3,1,1,311,Need Attention
+1485,Customer 1485,France,106,3,3542.57,3,4,5,345,Loyal Customers
+1486,Customer 1486,Netherlands,125,1,1347.00,3,1,4,314,Need Attention
+1487,Customer 1487,Germany,135,1,79.00,3,1,1,311,Need Attention
+1488,Customer 1488,UK,14,5,6075.15,5,5,5,555,Champions
+1489,Customer 1489,Germany,140,1,3346.80,3,1,5,315,Need Attention
+1490,Customer 1490,France,42,2,1637.70,4,3,5,435,Loyal Customers
+1491,Customer 1491,Netherlands,140,1,169.78,3,1,1,311,Need Attention
+1492,Customer 1492,Spain,28,4,2224.79,5,5,5,555,Champions
+1493,Customer 1493,UK,54,3,1020.35,4,4,4,444,Champions
+1494,Customer 1494,Germany,68,2,253.68,4,3,2,432,Loyal Customers
+1495,Customer 1495,France,67,2,106.99,4,3,1,431,Loyal Customers
+1496,Customer 1496,France,134,1,718.90,3,1,3,313,Need Attention
+1498,Customer 1498,Germany,127,1,43.69,3,1,1,311,Need Attention
+1499,Customer 1499,Spain,76,2,1225.17,4,3,4,434,Loyal Customers
+1501,Customer 1501,Netherlands,128,1,113.87,3,1,1,311,Need Attention
+1502,Customer 1502,Germany,128,1,66.50,3,1,1,311,Need Attention
+1503,Customer 1503,France,125,1,2524.87,3,1,5,315,Need Attention
+1504,Customer 1504,France,133,1,172.85,3,1,1,311,Need Attention
+1505,Customer 1505,UK,3,2,158.97,5,2,1,521,New / Promising
+1506,Customer 1506,UK,136,1,16.99,3,1,1,311,Need Attention
+1507,Customer 1507,Germany,130,1,1147.09,3,1,4,314,Need Attention
+1511,Customer 1511,Spain,46,2,716.10,4,3,3,433,Loyal Customers
+1512,Customer 1512,Germany,128,1,478.52,3,1,3,313,Need Attention
+1514,Customer 1514,UK,134,1,289.99,3,1,2,312,Need Attention
+1515,Customer 1515,Germany,63,2,617.54,4,3,3,433,Loyal Customers
+1516,Customer 1516,UK,129,1,179.10,3,1,1,311,Need Attention
+1518,Customer 1518,France,125,1,135.06,3,1,1,311,Need Attention
+1519,Customer 1519,France,63,2,415.36,4,3,2,432,Loyal Customers
+1520,Customer 1520,Spain,111,3,728.37,3,4,3,343,Loyal Customers
+1522,Customer 1522,UK,16,3,628.85,5,5,3,553,Loyal Customers
+1523,Customer 1523,UK,49,3,210.09,4,4,2,442,Loyal Customers
+1524,Customer 1524,UK,122,1,175.78,3,1,1,311,Need Attention
+1525,Customer 1525,UK,24,2,265.79,5,2,2,522,New / Promising
+1526,Customer 1526,UK,91,2,2415.40,3,3,5,335,Loyal Customers
+1527,Customer 1527,Germany,130,1,40.47,3,1,1,311,Need Attention
+1528,Customer 1528,UK,124,1,836.10,3,1,4,314,Need Attention
+1529,Customer 1529,Germany,17,2,440.19,5,2,3,523,New / Promising
+1530,Customer 1530,Netherlands,124,1,24.90,3,1,1,311,Need Attention
+1532,Customer 1532,France,25,2,486.56,5,2,3,523,New / Promising
+1533,Customer 1533,Spain,117,1,481.82,3,2,3,323,Need Attention
+1534,Customer 1534,Germany,80,2,423.79,4,3,2,432,Loyal Customers
+1535,Customer 1535,Germany,126,1,302.10,3,1,2,312,Need Attention
+1536,Customer 1536,Germany,116,1,147.78,3,2,1,321,Need Attention
+1537,Customer 1537,Germany,119,1,94.80,3,1,1,311,Need Attention
+1538,Customer 1538,France,43,1,107.50,4,2,1,421,New / Promising
+1539,Customer 1539,Germany,124,2,447.00,3,3,3,333,Loyal Customers
+1540,Customer 1540,UK,66,2,353.88,4,3,2,432,Loyal Customers
+1541,Customer 1541,France,119,1,68.81,3,1,1,311,Need Attention
+1542,Customer 1542,UK,98,2,111.90,3,3,1,331,Loyal Customers
+1543,Customer 1543,Germany,102,2,718.39,3,3,3,333,Loyal Customers
+1544,Customer 1544,Germany,30,3,2864.27,4,4,5,445,Champions
+1545,Customer 1545,France,61,2,360.10,4,3,2,432,Loyal Customers
+1546,Customer 1546,Germany,115,1,478.08,3,2,3,323,Need Attention
+1547,Customer 1547,Netherlands,19,2,2023.10,5,2,5,525,New / Promising
+1548,Customer 1548,Spain,115,1,263.66,3,2,2,322,Need Attention
+1549,Customer 1549,France,11,3,2045.28,5,5,5,555,Champions
+1550,Customer 1550,Netherlands,4,2,228.67,5,2,2,522,New / Promising
+1551,Customer 1551,UK,119,2,2174.40,3,3,5,335,Loyal Customers
+1552,Customer 1552,Germany,124,1,825.64,3,1,4,314,Need Attention
+1553,Customer 1553,Germany,120,1,228.80,3,1,2,312,Need Attention
+1554,Customer 1554,UK,13,5,1473.64,5,5,4,554,Champions
+1556,Customer 1556,UK,119,1,99.00,3,1,1,311,Need Attention
+1558,Customer 1558,Germany,117,1,526.50,3,1,3,313,Need Attention
+1559,Customer 1559,Germany,48,2,619.00,4,3,3,433,Loyal Customers
+1561,Customer 1561,Germany,9,5,5196.04,5,5,5,555,Champions
+1562,Customer 1562,Germany,79,1,69.89,4,2,1,421,New / Promising
+1564,Customer 1564,UK,37,2,1202.59,4,3,4,434,Loyal Customers
+1565,Customer 1565,Germany,8,2,634.95,5,2,3,523,New / Promising
+1567,Customer 1567,Germany,111,1,417.40,3,2,2,322,Need Attention
+1568,Customer 1568,France,116,1,199.00,3,2,1,321,Need Attention
+1569,Customer 1569,UK,118,1,298.00,3,1,2,312,Need Attention
+1571,Customer 1571,Spain,110,1,418.30,3,2,2,322,Need Attention
+1572,Customer 1572,UK,110,2,704.96,3,3,3,333,Loyal Customers
+1574,Customer 1574,Germany,34,2,867.66,4,2,4,424,New / Promising
+1577,Customer 1577,Netherlands,41,3,930.79,4,4,4,444,Champions
+1578,Customer 1578,Germany,26,4,1005.98,5,5,4,554,Champions
+1580,Customer 1580,Germany,111,1,151.07,3,2,1,321,Need Attention
+1582,Customer 1582,Spain,36,3,536.69,4,4,3,443,Loyal Customers
+1583,Customer 1583,Germany,109,1,249.00,3,2,2,322,Need Attention
+1584,Customer 1584,Germany,111,1,34.90,3,2,1,321,Need Attention
+1585,Customer 1585,France,106,1,178.00,3,2,1,321,Need Attention
+1586,Customer 1586,Netherlands,46,2,127.49,4,3,1,431,Loyal Customers
+1587,Customer 1587,Germany,101,1,147.00,3,2,1,321,Need Attention
+1591,Customer 1591,UK,110,1,639.29,3,2,3,323,Need Attention
+1592,Customer 1592,Germany,108,1,288.70,3,2,2,322,Need Attention
+1593,Customer 1593,UK,104,1,221.49,3,2,2,322,Need Attention
+1594,Customer 1594,Spain,4,3,1061.56,5,5,4,554,Champions
+1595,Customer 1595,Germany,108,1,427.77,3,2,2,322,Need Attention
+1596,Customer 1596,Netherlands,24,3,2809.01,5,5,5,555,Champions
+1597,Customer 1597,UK,98,1,228.78,3,2,2,322,Need Attention
+1598,Customer 1598,Germany,104,1,15.90,3,2,1,321,Need Attention
+1599,Customer 1599,France,108,1,84.95,3,2,1,321,Need Attention
+1601,Customer 1601,France,79,2,664.36,4,3,3,433,Loyal Customers
+1602,Customer 1602,UK,98,1,327.80,3,2,2,322,Need Attention
+1603,Customer 1603,Spain,97,1,72.88,3,2,1,321,Need Attention
+1604,Customer 1604,Germany,71,3,2353.90,4,4,5,445,Champions
+1605,Customer 1605,Netherlands,103,1,38.97,3,2,1,321,Need Attention
+1606,Customer 1606,Germany,41,5,1130.45,4,5,4,454,Champions
+1607,Customer 1607,France,103,1,3506.68,3,2,5,325,Need Attention
+1608,Customer 1608,UK,18,2,238.38,5,2,2,522,New / Promising
+1609,Customer 1609,France,16,4,604.27,5,5,3,553,Loyal Customers
+1610,Customer 1610,France,96,1,1376.70,3,2,4,324,Need Attention
+1611,Customer 1611,Germany,68,2,997.50,4,3,4,434,Loyal Customers
+1612,Customer 1612,Germany,78,2,1063.56,4,3,4,434,Loyal Customers
+1613,Customer 1613,Germany,94,1,71.59,3,2,1,321,Need Attention
+1614,Customer 1614,UK,99,1,718.90,3,2,3,323,Need Attention
+1615,Customer 1615,UK,10,3,933.88,5,5,4,554,Champions
+1616,Customer 1616,Spain,98,1,315.69,3,2,2,322,Need Attention
+1617,Customer 1617,Germany,30,2,691.98,4,2,3,423,New / Promising
+1618,Customer 1618,Germany,92,1,744.08,3,2,3,323,Need Attention
+1619,Customer 1619,Germany,35,2,221.07,4,2,2,422,New / Promising
+1620,Customer 1620,Germany,92,1,300.98,3,2,2,322,Need Attention
+1621,Customer 1621,Germany,97,1,41.97,3,2,1,321,Need Attention
+1622,Customer 1622,UK,99,1,22.99,3,2,1,321,Need Attention
+1623,Customer 1623,Germany,24,2,1292.96,5,2,4,524,New / Promising
+1626,Customer 1626,Germany,91,1,298.00,3,2,2,322,Need Attention
+1627,Customer 1627,Germany,99,1,3459.19,3,2,5,325,Need Attention
+1628,Customer 1628,Germany,21,3,404.16,5,5,2,552,Loyal Customers
+1629,Customer 1629,France,81,2,575.90,4,3,3,433,Loyal Customers
+1630,Customer 1630,France,27,3,630.48,5,4,3,543,Loyal Customers
+1631,Customer 1631,France,86,1,112.21,4,2,1,421,New / Promising
+1632,Customer 1632,UK,74,2,163.89,4,3,1,431,Loyal Customers
+1634,Customer 1634,Spain,67,2,359.72,4,3,2,432,Loyal Customers
+1635,Customer 1635,Netherlands,12,2,351.31,5,2,2,522,New / Promising
+1636,Customer 1636,France,33,2,899.53,4,2,4,424,New / Promising
+1639,Customer 1639,Germany,40,2,325.99,4,3,2,432,Loyal Customers
+1640,Customer 1640,Netherlands,93,1,67.96,3,2,1,321,Need Attention
+1641,Customer 1641,France,2,3,756.22,5,5,3,553,Loyal Customers
+1642,Customer 1642,France,18,1,408.19,5,2,2,522,New / Promising
+1643,Customer 1643,Netherlands,82,1,1191.51,4,2,4,424,New / Promising
+1644,Customer 1644,Germany,89,1,262.96,4,2,2,422,New / Promising
+1646,Customer 1646,France,12,2,556.29,5,2,3,523,New / Promising
+1650,Customer 1650,UK,35,3,1646.54,4,4,5,445,Champions
+1652,Customer 1652,UK,1,2,596.68,5,2,3,523,New / Promising
+1654,Customer 1654,France,14,3,2927.09,5,5,5,555,Champions
+1655,Customer 1655,UK,37,2,331.39,4,3,2,432,Loyal Customers
+1656,Customer 1656,Germany,88,1,251.42,4,2,2,422,New / Promising
+1657,Customer 1657,Netherlands,55,2,2068.91,4,3,5,435,Loyal Customers
+1658,Customer 1658,France,1,3,1385.29,5,5,4,554,Champions
+1659,Customer 1659,Netherlands,83,1,452.59,4,2,3,423,New / Promising
+1661,Customer 1661,France,83,1,1009.41,4,2,4,424,New / Promising
+1663,Customer 1663,Germany,32,3,982.95,4,4,4,444,Champions
+1664,Customer 1664,UK,26,4,2860.47,5,5,5,555,Champions
+1665,Customer 1665,UK,41,2,758.47,4,3,3,433,Loyal Customers
+1666,Customer 1666,UK,80,1,132.80,4,2,1,421,New / Promising
+1667,Customer 1667,Spain,76,1,315.98,4,2,2,422,New / Promising
+1668,Customer 1668,Germany,62,2,571.79,4,3,3,433,Loyal Customers
+1670,Customer 1670,Germany,62,2,369.60,4,3,2,432,Loyal Customers
+1672,Customer 1672,UK,73,1,55.98,4,2,1,421,New / Promising
+1673,Customer 1673,Germany,4,3,1796.19,5,5,5,555,Champions
+1674,Customer 1674,UK,79,1,129.06,4,2,1,421,New / Promising
+1675,Customer 1675,Spain,17,4,2775.19,5,5,5,555,Champions
+1676,Customer 1676,UK,16,3,1275.10,5,5,4,554,Champions
+1678,Customer 1678,Spain,82,1,111.59,4,2,1,421,New / Promising
+1679,Customer 1679,UK,71,1,876.40,4,2,4,424,New / Promising
+1681,Customer 1681,Spain,73,1,222.40,4,2,2,422,New / Promising
+1682,Customer 1682,Netherlands,65,2,529.27,4,3,3,433,Loyal Customers
+1683,Customer 1683,Netherlands,77,1,369.47,4,2,2,422,New / Promising
+1684,Customer 1684,France,72,2,739.71,4,3,3,433,Loyal Customers
+1685,Customer 1685,Germany,34,3,532.75,4,4,3,443,Loyal Customers
+1686,Customer 1686,France,75,1,106.97,4,2,1,421,New / Promising
+1688,Customer 1688,Germany,6,1,173.57,5,2,1,521,New / Promising
+1689,Customer 1689,Germany,74,1,39.98,4,2,1,421,New / Promising
+1690,Customer 1690,France,77,1,589.27,4,2,3,423,New / Promising
+1691,Customer 1691,Netherlands,27,2,2525.90,5,2,5,525,New / Promising
+1692,Customer 1692,France,75,1,1202.48,4,2,4,424,New / Promising
+1694,Customer 1694,France,66,1,59.00,4,2,1,421,New / Promising
+1695,Customer 1695,Germany,9,3,1708.62,5,5,5,555,Champions
+1697,Customer 1697,Germany,26,2,959.41,5,2,4,524,New / Promising
+1700,Customer 1700,UK,71,1,239.60,4,2,2,422,New / Promising
+1701,Customer 1701,France,75,1,170.19,4,2,1,421,New / Promising
+1706,Customer 1706,UK,5,2,243.84,5,2,2,522,New / Promising
+1707,Customer 1707,Spain,16,2,1917.89,5,2,5,525,New / Promising
+1708,Customer 1708,Germany,36,2,546.79,4,2,3,423,New / Promising
+1709,Customer 1709,UK,72,1,222.38,4,2,2,422,New / Promising
+1710,Customer 1710,Netherlands,3,4,544.11,5,5,3,553,Loyal Customers
+1711,Customer 1711,France,67,1,178.00,4,2,1,421,New / Promising
+1712,Customer 1712,Germany,13,4,1865.77,5,5,5,555,Champions
+1713,Customer 1713,UK,14,2,370.38,5,2,2,522,New / Promising
+1714,Customer 1714,France,68,1,1060.98,4,2,4,424,New / Promising
+1715,Customer 1715,UK,38,1,44.90,4,2,1,421,New / Promising
+1717,Customer 1717,Netherlands,24,3,2124.36,5,5,5,555,Champions
+1718,Customer 1718,Netherlands,59,1,1229.80,4,2,4,424,New / Promising
+1719,Customer 1719,Germany,66,1,177.39,4,2,1,421,New / Promising
+1720,Customer 1720,Netherlands,1,2,224.69,5,2,2,522,New / Promising
+1721,Customer 1721,UK,9,2,361.32,5,2,2,522,New / Promising
+1722,Customer 1722,UK,54,2,28.39,4,3,1,431,Loyal Customers
+1723,Customer 1723,UK,64,1,25.19,4,2,1,421,New / Promising
+1724,Customer 1724,Germany,50,2,1006.00,4,3,4,434,Loyal Customers
+1725,Customer 1725,Germany,1,4,1764.47,5,5,5,555,Champions
+1726,Customer 1726,Spain,65,1,513.90,4,2,3,423,New / Promising
+1727,Customer 1727,Spain,40,3,1258.48,4,4,4,444,Champions
+1728,Customer 1728,France,64,1,339.30,4,2,2,422,New / Promising
+1730,Customer 1730,Germany,63,2,158.68,4,3,1,431,Loyal Customers
+1731,Customer 1731,Spain,3,3,822.02,5,5,4,554,Champions
+1732,Customer 1732,Germany,57,1,345.48,4,2,2,422,New / Promising
+1733,Customer 1733,Spain,4,2,988.59,5,2,4,524,New / Promising
+1734,Customer 1734,UK,35,2,243.98,4,2,2,422,New / Promising
+1735,Customer 1735,UK,28,2,259.46,5,2,2,522,New / Promising
+1737,Customer 1737,Germany,36,2,503.55,4,3,3,433,Loyal Customers
+1738,Customer 1738,UK,59,1,79.00,4,2,1,421,New / Promising
+1739,Customer 1739,UK,65,1,26.99,4,2,1,421,New / Promising
+1740,Customer 1740,Spain,56,1,36.48,4,2,1,421,New / Promising
+1741,Customer 1741,France,16,3,729.88,5,5,3,553,Loyal Customers
+1742,Customer 1742,Germany,65,1,69.80,4,2,1,421,New / Promising
+1743,Customer 1743,UK,58,1,48.31,4,2,1,421,New / Promising
+1745,Customer 1745,Spain,50,3,745.48,4,4,3,443,Loyal Customers
+1746,Customer 1746,France,63,1,212.94,4,2,2,422,New / Promising
+1747,Customer 1747,Germany,2,4,5289.96,5,5,5,555,Champions
+1748,Customer 1748,France,66,1,508.90,4,2,3,423,New / Promising
+1749,Customer 1749,Germany,47,2,183.97,4,3,1,431,Loyal Customers
+1750,Customer 1750,Germany,60,1,1498.78,4,2,5,425,New / Promising
+1751,Customer 1751,UK,57,1,254.98,4,2,2,422,New / Promising
+1752,Customer 1752,Germany,49,3,892.19,4,4,4,444,Champions
+1756,Customer 1756,Germany,50,1,166.68,4,2,1,421,New / Promising
+1757,Customer 1757,France,57,1,146.77,4,2,1,421,New / Promising
+1758,Customer 1758,Germany,57,1,232.20,4,2,2,422,New / Promising
+1759,Customer 1759,France,29,2,652.75,5,2,3,523,New / Promising
+1761,Customer 1761,Netherlands,48,2,1979.50,4,3,5,435,Loyal Customers
+1762,Customer 1762,Germany,53,1,179.59,4,2,1,421,New / Promising
+1763,Customer 1763,UK,24,3,1827.89,5,5,5,555,Champions
+1764,Customer 1764,France,5,1,168.70,5,2,1,521,New / Promising
+1765,Customer 1765,France,15,2,680.05,5,2,3,523,New / Promising
+1766,Customer 1766,Germany,45,2,201.72,4,3,2,432,Loyal Customers
+1767,Customer 1767,Netherlands,54,2,515.09,4,3,3,433,Loyal Customers
+1768,Customer 1768,France,37,2,3370.78,4,3,5,435,Loyal Customers
+1769,Customer 1769,Netherlands,53,1,17.99,4,2,1,421,New / Promising
+1770,Customer 1770,UK,46,1,3554.97,4,2,5,425,New / Promising
+1772,Customer 1772,Germany,10,2,803.16,5,2,4,524,New / Promising
+1773,Customer 1773,Germany,44,2,518.66,4,3,3,433,Loyal Customers
+1774,Customer 1774,France,23,1,128.59,5,2,1,521,New / Promising
+1775,Customer 1775,Germany,37,2,515.87,4,3,3,433,Loyal Customers
+1776,Customer 1776,Germany,55,1,255.80,4,2,2,422,New / Promising
+1777,Customer 1777,Germany,53,1,433.97,4,2,3,423,New / Promising
+1778,Customer 1778,Germany,54,1,412.97,4,2,2,422,New / Promising
+1779,Customer 1779,Germany,10,5,3277.03,5,5,5,555,Champions
+1780,Customer 1780,Germany,16,2,394.49,5,2,2,522,New / Promising
+1781,Customer 1781,Netherlands,49,1,129.00,4,2,1,421,New / Promising
+1784,Customer 1784,UK,15,3,780.06,5,5,3,553,Loyal Customers
+1785,Customer 1785,UK,21,2,308.00,5,2,2,522,New / Promising
+1787,Customer 1787,Spain,49,1,18.50,4,2,1,421,New / Promising
+1788,Customer 1788,Germany,52,1,1693.70,4,2,5,425,New / Promising
+1790,Customer 1790,Germany,43,1,27.98,4,2,1,421,New / Promising
+1792,Customer 1792,France,54,1,833.40,4,2,4,424,New / Promising
+1793,Customer 1793,Spain,40,2,549.88,4,3,3,433,Loyal Customers
+1794,Customer 1794,Netherlands,42,1,106.60,4,2,1,421,New / Promising
+1795,Customer 1795,France,5,4,1310.87,5,5,4,554,Champions
+1796,Customer 1796,France,52,1,664.20,4,2,3,423,New / Promising
+1797,Customer 1797,UK,49,1,118.87,4,2,1,421,New / Promising
+1798,Customer 1798,Netherlands,35,2,675.71,4,2,3,423,New / Promising
+1800,Customer 1800,Germany,21,2,391.78,5,2,2,522,New / Promising
+1801,Customer 1801,France,40,1,126.98,4,2,1,421,New / Promising
+1802,Customer 1802,UK,49,1,107.50,4,2,1,421,New / Promising
+1806,Customer 1806,Germany,51,1,666.88,4,2,3,423,New / Promising
+1808,Customer 1808,Netherlands,50,1,475.00,4,2,3,423,New / Promising
+1809,Customer 1809,UK,37,1,19.99,4,2,1,421,New / Promising
+1810,Customer 1810,UK,48,1,211.71,4,2,2,422,New / Promising
+1811,Customer 1811,Spain,49,1,24.99,4,2,1,421,New / Promising
+1812,Customer 1812,Netherlands,20,2,62.29,5,2,1,521,New / Promising
+1813,Customer 1813,France,46,2,1213.68,4,3,4,434,Loyal Customers
+1814,Customer 1814,Netherlands,43,1,39.98,4,2,1,421,New / Promising
+1815,Customer 1815,France,43,1,951.60,4,2,4,424,New / Promising
+1816,Customer 1816,Germany,37,1,252.91,4,2,2,422,New / Promising
+1818,Customer 1818,Germany,13,3,1535.97,5,5,5,555,Champions
+1819,Customer 1819,Germany,37,1,269.10,4,2,2,422,New / Promising
+1821,Customer 1821,France,37,1,19.90,4,2,1,421,New / Promising
+1823,Customer 1823,Germany,36,1,525.99,4,2,3,423,New / Promising
+1824,Customer 1824,Germany,34,1,162.79,4,2,1,421,New / Promising
+1825,Customer 1825,Germany,44,1,19.99,4,2,1,421,New / Promising
+1826,Customer 1826,Germany,25,2,307.32,5,2,2,522,New / Promising
+1827,Customer 1827,France,7,2,839.90,5,2,4,524,New / Promising
+1828,Customer 1828,Germany,39,1,327.60,4,2,2,422,New / Promising
+1830,Customer 1830,France,35,1,179.97,4,2,1,421,New / Promising
+1831,Customer 1831,Spain,2,1,29.80,5,2,1,521,New / Promising
+1833,Customer 1833,Germany,42,1,257.40,4,2,2,422,New / Promising
+1834,Customer 1834,France,40,1,120.09,4,2,1,421,New / Promising
+1835,Customer 1835,France,36,1,179.81,4,2,1,421,New / Promising
+1836,Customer 1836,Spain,39,1,272.99,4,2,2,422,New / Promising
+1837,Customer 1837,Netherlands,29,2,877.29,5,2,4,524,New / Promising
+1838,Customer 1838,UK,36,1,347.60,4,2,2,422,New / Promising
+1839,Customer 1839,France,1,3,1986.76,5,5,5,555,Champions
+1840,Customer 1840,Germany,44,1,382.95,4,2,2,422,New / Promising
+1844,Customer 1844,Spain,16,2,425.90,5,2,2,522,New / Promising
+1846,Customer 1846,Germany,39,1,59.80,4,2,1,421,New / Promising
+1847,Customer 1847,Germany,31,2,452.64,4,2,3,423,New / Promising
+1849,Customer 1849,Germany,42,2,1229.46,4,3,4,434,Loyal Customers
+1850,Customer 1850,Germany,30,1,358.20,4,2,2,422,New / Promising
+1851,Customer 1851,Germany,41,2,943.87,4,3,4,434,Loyal Customers
+1852,Customer 1852,Germany,11,2,801.69,5,2,4,524,New / Promising
+1853,Customer 1853,Germany,35,1,401.18,4,2,2,422,New / Promising
+1854,Customer 1854,France,32,1,1596.00,4,2,5,425,New / Promising
+1855,Customer 1855,Germany,10,2,337.97,5,2,2,522,New / Promising
+1856,Customer 1856,Germany,41,1,226.96,4,2,2,422,New / Promising
+1858,Customer 1858,Spain,27,3,1782.69,5,4,5,545,Champions
+1859,Customer 1859,Spain,27,1,149.00,5,2,1,521,New / Promising
+1860,Customer 1860,Germany,30,1,59.97,4,2,1,421,New / Promising
+1861,Customer 1861,France,38,1,139.80,4,2,1,421,New / Promising
+1862,Customer 1862,Germany,39,1,716.00,4,2,3,423,New / Promising
+1863,Customer 1863,Netherlands,17,2,2374.07,5,2,5,525,New / Promising
+1864,Customer 1864,Germany,29,1,586.90,5,2,3,523,New / Promising
+1866,Customer 1866,Spain,18,2,474.76,5,2,3,523,New / Promising
+1867,Customer 1867,France,24,1,167.47,5,2,1,521,New / Promising
+1868,Customer 1868,France,27,1,139.68,5,2,1,521,New / Promising
+1869,Customer 1869,Netherlands,22,2,327.40,5,2,2,522,New / Promising
+1871,Customer 1871,Netherlands,32,1,1591.94,4,2,5,425,New / Promising
+1872,Customer 1872,Germany,10,2,893.66,5,2,4,524,New / Promising
+1873,Customer 1873,Spain,22,1,86.89,5,2,1,521,New / Promising
+1874,Customer 1874,France,35,1,190.97,4,2,1,421,New / Promising
+1875,Customer 1875,Germany,11,2,238.60,5,2,2,522,New / Promising
+1876,Customer 1876,Germany,22,2,407.80,5,2,2,522,New / Promising
+1877,Customer 1877,Germany,7,2,112.79,5,2,1,521,New / Promising
+1879,Customer 1879,Germany,28,1,99.00,5,2,1,521,New / Promising
+1880,Customer 1880,Germany,23,1,548.49,5,2,3,523,New / Promising
+1881,Customer 1881,Germany,15,2,960.37,5,2,4,524,New / Promising
+1882,Customer 1882,Germany,27,1,362.00,5,2,2,522,New / Promising
+1883,Customer 1883,UK,31,1,824.86,4,2,4,424,New / Promising
+1884,Customer 1884,Germany,21,2,662.85,5,2,3,523,New / Promising
+1885,Customer 1885,UK,9,3,4037.03,5,5,5,555,Champions
+1886,Customer 1886,Germany,17,2,489.72,5,2,3,523,New / Promising
+1887,Customer 1887,Germany,24,2,537.03,5,2,3,523,New / Promising
+1888,Customer 1888,Germany,29,1,276.50,5,2,2,522,New / Promising
+1889,Customer 1889,France,25,2,167.68,5,2,1,521,New / Promising
+1892,Customer 1892,Spain,23,1,25.98,5,2,1,521,New / Promising
+1893,Customer 1893,Germany,21,1,1469.89,5,2,4,524,New / Promising
+1895,Customer 1895,UK,29,1,378.80,5,2,2,522,New / Promising
+1896,Customer 1896,Germany,27,1,882.07,5,2,4,524,New / Promising
+1897,Customer 1897,France,25,1,65.78,5,2,1,521,New / Promising
+1898,Customer 1898,Germany,18,3,890.25,5,5,4,554,Champions
+1899,Customer 1899,Germany,28,1,392.10,5,2,2,522,New / Promising
+1900,Customer 1900,Germany,28,1,275.89,5,2,2,522,New / Promising
+1902,Customer 1902,UK,26,1,184.89,5,2,1,521,New / Promising
+1903,Customer 1903,France,22,1,1489.88,5,2,4,524,New / Promising
+1904,Customer 1904,France,23,1,253.10,5,2,2,522,New / Promising
+1905,Customer 1905,Germany,21,1,129.00,5,2,1,521,New / Promising
+1906,Customer 1906,Germany,28,1,49.90,5,2,1,521,New / Promising
+1907,Customer 1907,Germany,22,2,342.90,5,2,2,522,New / Promising
+1908,Customer 1908,France,18,1,158.00,5,2,1,521,New / Promising
+1909,Customer 1909,Germany,15,2,743.86,5,2,3,523,New / Promising
+1910,Customer 1910,France,16,1,516.97,5,2,3,523,New / Promising
+1911,Customer 1911,UK,5,2,405.95,5,2,2,522,New / Promising
+1913,Customer 1913,Germany,16,1,215.99,5,2,2,522,New / Promising
+1914,Customer 1914,Germany,16,1,92.41,5,2,1,521,New / Promising
+1915,Customer 1915,France,25,1,131.99,5,2,1,521,New / Promising
+1916,Customer 1916,Spain,11,1,258.00,5,2,2,522,New / Promising
+1917,Customer 1917,Germany,23,1,718.90,5,2,3,523,New / Promising
+1918,Customer 1918,France,11,2,149.77,5,2,1,521,New / Promising
+1919,Customer 1919,Germany,11,1,606.10,5,2,3,523,New / Promising
+1920,Customer 1920,Spain,22,1,88.37,5,2,1,521,New / Promising
+1922,Customer 1922,UK,18,1,2326.50,5,2,5,525,New / Promising
+1923,Customer 1923,France,13,2,416.55,5,2,2,522,New / Promising
+1925,Customer 1925,France,21,1,496.78,5,2,3,523,New / Promising
+1926,Customer 1926,Germany,22,1,23.38,5,2,1,521,New / Promising
+1927,Customer 1927,Spain,13,1,202.78,5,2,2,522,New / Promising
+1928,Customer 1928,France,12,1,379.91,5,2,2,522,New / Promising
+1929,Customer 1929,France,9,2,473.85,5,2,3,523,New / Promising
+1930,Customer 1930,UK,9,1,69.70,5,2,1,521,New / Promising
+1931,Customer 1931,Germany,15,1,39.98,5,2,1,521,New / Promising
+1933,Customer 1933,UK,13,2,2871.46,5,2,5,525,New / Promising
+1934,Customer 1934,Netherlands,20,1,208.00,5,2,2,522,New / Promising
+1935,Customer 1935,Netherlands,12,1,37.00,5,2,1,521,New / Promising
+1937,Customer 1937,Germany,19,1,53.10,5,2,1,521,New / Promising
+1938,Customer 1938,France,13,1,625.80,5,2,3,523,New / Promising
+1940,Customer 1940,UK,18,1,160.60,5,2,1,521,New / Promising
+1941,Customer 1941,Germany,18,1,572.19,5,2,3,523,New / Promising
+1942,Customer 1942,UK,13,2,2050.53,5,2,5,525,New / Promising
+1943,Customer 1943,Spain,15,1,47.98,5,2,1,521,New / Promising
+1944,Customer 1944,Germany,9,2,413.98,5,2,2,522,New / Promising
+1946,Customer 1946,Germany,15,1,564.78,5,2,3,523,New / Promising
+1947,Customer 1947,France,6,1,255.21,5,2,2,522,New / Promising
+1949,Customer 1949,Germany,5,1,183.91,5,2,1,521,New / Promising
+1950,Customer 1950,UK,3,1,267.00,5,2,2,522,New / Promising
+1952,Customer 1952,Germany,5,1,898.00,5,2,4,524,New / Promising
+1954,Customer 1954,UK,1,2,172.65,5,2,1,521,New / Promising
+1955,Customer 1955,France,12,1,250.90,5,2,2,522,New / Promising
+1957,Customer 1957,Germany,10,1,553.00,5,2,3,523,New / Promising
+1958,Customer 1958,Germany,4,1,1283.19,5,2,4,524,New / Promising
+1959,Customer 1959,UK,5,2,587.52,5,2,3,523,New / Promising
+1960,Customer 1960,France,1,2,393.40,5,2,2,522,New / Promising
+1961,Customer 1961,Germany,8,1,265.94,5,2,2,522,New / Promising
+1962,Customer 1962,Germany,2,1,138.36,5,2,1,521,New / Promising
+1963,Customer 1963,UK,10,1,29.99,5,2,1,521,New / Promising
+1964,Customer 1964,France,7,1,717.19,5,2,3,523,New / Promising
+1965,Customer 1965,France,6,1,1530.61,5,2,5,525,New / Promising
+1966,Customer 1966,France,6,1,510.16,5,2,3,523,New / Promising
+1967,Customer 1967,Germany,1,1,296.87,5,2,2,522,New / Promising
+1968,Customer 1968,Germany,1,1,177.49,5,2,1,521,New / Promising
+1969,Customer 1969,Spain,9,1,386.80,5,2,2,522,New / Promising
+1970,Customer 1970,Germany,1,1,187.60,5,2,1,521,New / Promising
+1971,Customer 1971,UK,1,1,115.99,5,2,1,521,New / Promising
+1972,Customer 1972,Netherlands,3,1,130.00,5,2,1,521,New / Promising
+1973,Customer 1973,UK,1,1,89.00,5,2,1,521,New / Promising
+1974,Customer 1974,France,1,1,134.80,5,2,1,521,New / Promising
+1975,Customer 1975,Germany,1,1,27.99,5,2,1,521,New / Promising
+1976,Customer 1976,France,1,1,37.00,5,2,1,521,New / Promising
+1977,Customer 1977,Netherlands,1,1,398.38,5,2,2,522,New / Promising
+1979,Customer 1979,Germany,1,1,86.96,5,2,1,521,New / Promising
+1980,Customer 1980,France,1,1,158.00,5,2,1,521,New / Promising
+1981,Customer 1981,Netherlands,5,1,49.80,5,2,1,521,New / Promising
+1983,Customer 1983,Germany,1,1,85.78,5,2,1,521,New / Promising
+1984,Customer 1984,Germany,1,1,350.73,5,2,2,522,New / Promising
+1988,Customer 1988,Spain,1,1,2241.05,5,2,5,525,New / Promising
+1989,Customer 1989,Spain,1,1,22.99,5,2,1,521,New / Promising
+1990,Customer 1990,Spain,1,1,425.99,5,2,2,522,New / Promising
+1991,Customer 1991,Germany,1,1,412.27,5,2,2,522,New / Promising
+1992,Customer 1992,Germany,1,1,166.29,5,2,1,521,New / Promising
+1994,Customer 1994,Germany,1,1,449.00,5,2,3,523,New / Promising
+1997,Customer 1997,France,1,1,275.57,5,2,2,522,New / Promising
+1998,Customer 1998,Germany,1,1,26.99,5,2,1,521,New / Promising
