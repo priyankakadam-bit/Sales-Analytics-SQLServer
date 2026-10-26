@@ -122,12 +122,14 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 ## 7. Key Findings
 *(Fill in after running the scripts on your database.)*
 
-- Revenue grew **__%** from 2024 to 2025, with a holiday peak in December.
-- **__** of revenue comes from the top 20% of customers.
-- **Champions** are __% of customers but generate __% of revenue; __ customers are **At Risk**.
-- On average __% of new customers buy again in their first month.
-- Laptop + Laptop Sleeve are bought together **__×** more often than chance (lift).
-- Electronics bring __% of revenue; the cancellation rate is __%.
+## 7. Key Findings
+
+- Revenue grew **105%** from 2024 to 2025 (≈1.06M), with a holiday peak in December (159K vs 71K in January).
+- **Returning customers** bring **72%** of December revenue.
+- **Champions** are **13%** of customers but generate **29%** of revenue; **At Risk** customers are 25% of customers and still hold **32%** of revenue, the biggest win-back opportunity.
+- On average about **19%** of new customers buy again in their first month after the first order.
+- Laptop + Laptop Sleeve are bought together **5.9×** more often than chance (lift); 58% of coffee maker buyers also buy coffee beans.
+- Electronics bring **58%** of revenue; the cancellation rate is **12.1%** and similar across all categories (11.7–12.7%).
 
 ---
 
