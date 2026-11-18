@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 An end-to-end sales analytics project in SQL Server for a simulated online retailer
-(customers, products, orders, order items, payments), with a Power BI dashboard on top.
+(customers, products, orders, order items, payments), with a Tableau dashboard on top.
 
 It covers the full workflow: **database design → realistic data generation → data quality checks →
 indexing → reusable views → business analysis → parameterised reports → dashboard.**
@@ -133,9 +133,6 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 ---
 
 ## 7. Key Findings
-*(Fill in after running the scripts on your database.)*
-
-## 7. Key Findings
 
 - Revenue grew **105%** from 2024 to 2025 (≈1.06M), with a holiday peak in December (159K vs 71K in January).
 - **Returning customers** bring **72%** of December revenue.
@@ -146,8 +143,8 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 
 ---
 
-## 8. Power BI Dashboard
-Connect Power BI to `SalesDB` and load the views above plus `DimDate`
+## 8. Tableau Dashboard
+Connect Tableau to `SalesDB` and load the views above plus `DimDate`
 (relationship: `DimDate[Date]` → `vw_OrderSummary[OrderDate]`).
 
 Pages:
