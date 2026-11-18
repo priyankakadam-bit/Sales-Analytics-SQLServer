@@ -41,7 +41,7 @@ Customers 1───* Orders 1───* OrderItems *───1 Products
                   │
                   1
                   │
-                  0..1 Payments          DimDate (calendar for Power BI)
+                  0..1 Payments          DimDate (calendar table)
 ```
 
 | Table | Columns | Rules |
@@ -102,7 +102,7 @@ Run the scripts in `sql/` in order:
 | `01_schema.sql` | Tables, keys, constraints, calendar table |
 | `02_sample_data.sql` | Generates the data |
 | `03_indexes.sql` | Supporting indexes |
-| `04_views.sql` | Reusable views (also used by Power BI) |
+| `04_views.sql` | Reusable views (the source of the Tableau data) |
 | `05_analysis_queries.sql` | Core KPI queries |
 | `06_advanced_analysis.sql` | Growth, RFM, cohorts, basket, Pareto, churn… |
 | `07_stored_procedures.sql` | Parameterised reports |
@@ -123,7 +123,7 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 
 | View | Purpose |
 |---|---|
-| `vw_OrderSummary` | One row per order: totals, payment, days to pay, first-order flag (main Power BI fact table) |
+| `vw_OrderSummary` | One row per order: totals, payment, days to pay, first-order flag (main table for the dashboard) |
 | `vw_MonthlyRevenue` | Revenue, orders, active customers, AOV per month |
 | `vw_CustomerLifetimeValue` | Orders, lifetime value, first/last order per customer |
 | `vw_CategoryRevenue` | Revenue and units per category |
@@ -144,13 +144,16 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 ---
 
 ## 8. Tableau Dashboard
-Connect Tableau to `SalesDB` and load the views above plus `DimDate`
-(relationship: `DimDate[Date]` → `vw_OrderSummary[OrderDate]`).
+**Interactive dashboard on Tableau Public:** [ADD YOUR TABLEAU PUBLIC LINK HERE]
+
+Built in Tableau Public from the CSV exports in `data/`, linked by relationships
+(`order_summary` → `product_sales` on `OrderID`, `order_summary` → `customer_rfm` on `CustomerID`).
+A **Select Year** parameter and **Country / Category / Segment** filters control every chart.
 
 Pages:
-- **Revenue overview** - monthly trend, MoM %, revenue by country, KPI cards
-- **Customer insights** - top customers, RFM segments, cohort retention heatmap
-- **Product performance** - top products, category share, products bought together
+- **Overview** - KPI cards with change vs previous year (revenue, orders, AOV, customers, cancel rate), monthly revenue vs previous year, revenue by country
+- **Customer Insights** - RFM segments, cohort retention heatmap, top 10 customers, new vs returning revenue
+- **Product Performance** - top products, category share, cancellation rate by category, products bought together
 
 ### Dashboard Preview
 ![Overview](images/revenue_overview.png)
@@ -168,4 +171,4 @@ See [`docs/performance_tuning.md`](docs/performance_tuning.md) for the indexes a
 Relational modelling and constraints · set-based T-SQL data generation · joins and aggregation ·
 CTEs · window functions (`LAG`, `RANK`, `NTILE`, running totals, moving averages) ·
 cohort and RFM analysis · market basket analysis · views and stored procedures ·
-indexing and execution plans · data quality checks · Power BI
+indexing and execution plans · data quality checks · Tableau (parameters, calculated fields, dashboards)
