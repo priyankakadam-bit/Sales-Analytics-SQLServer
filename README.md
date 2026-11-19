@@ -144,7 +144,7 @@ EXEC dbo.usp_CustomerProfile @CustomerID = 42;
 ---
 
 ## 8. Tableau Dashboard
-**Interactive dashboard on Tableau Public:** [(https://public.tableau.com:9443/views/SalesPerformanceDashboard_17927585295900/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+**Interactive dashboard on Tableau Public:** [View the dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17927585295900/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Built in Tableau Public from the CSV exports in `data/`, linked by relationships
 (`order_summary` → `product_sales` on `OrderID`, `order_summary` → `customer_rfm` on `CustomerID`).
